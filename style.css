@@ -126,3 +126,9 @@ tr.picked{background:var(--chip)}
   .pcard h2{font-size:14pt;margin:0 0 4px}
   .contact{background:none;padding:0}
 }
+
+dl.elig{display:grid;grid-template-columns:max-content 1fr;gap:2px 10px;margin:8px 0;font-size:13px}
+dl.elig dt{color:var(--mut)}
+dl.elig dd{margin:0;white-space:pre-line}
+td dl.elig{font-size:12px;grid-template-columns:max-content minmax(140px,1fr)}
+.tag.flag{background:var(--warn);color:var(--warnfg);font-size:12px}

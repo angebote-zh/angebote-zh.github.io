@@ -24,7 +24,8 @@
      "email": "info@aoz.ch"
     }
    ],
-   "url": "https://www.aoz.ch"
+   "url": "https://www.aoz.ch",
+   "rules": {}
   },
   {
    "id": "stadt-2f4a947a-5bae-43d1-9558-6e57ab97b8c1",
@@ -48,7 +49,8 @@
      "email": "info@srk-zuerich.ch"
     }
    ],
-   "url": "https://www.srk-zuerich.ch/fuer-sie-da/notsituationen/sozialberatung"
+   "url": "https://www.srk-zuerich.ch/fuer-sie-da/notsituationen/sozialberatung",
+   "rules": {}
   },
   {
    "id": "stadt-52d04b37-9cf8-4983-af7a-74135f12944f",
@@ -72,7 +74,8 @@
      "email": "info@sa.zh.ch "
     }
    ],
-   "url": "https://www.zh.ch/de/sicherheitsdirektion/sozialamt.html"
+   "url": "https://www.zh.ch/de/sicherheitsdirektion/sozialamt.html",
+   "rules": {}
   },
   {
    "id": "stadt-8aadc159-3495-4f26-876d-46b453dbe91c",
@@ -95,7 +98,8 @@
      "phone": "+41 43 259 88 00"
     }
    ],
-   "url": "https://www.zh.ch/de/sicherheitsdirektion/migrationsamt.html"
+   "url": "https://www.zh.ch/de/sicherheitsdirektion/migrationsamt.html",
+   "rules": {}
   },
   {
    "id": "stadt-4dde0e75-7252-4bcb-ba3a-e12551616cab",
@@ -117,7 +121,10 @@
      "email": "info@asylex.ch"
     }
    ],
-   "url": "https://www.asylex.ch/?lang=de"
+   "url": "https://www.asylex.ch/?lang=de",
+   "rules": {
+    "remote": true
+   }
   },
   {
    "id": "stadt-ee485ca7-0487-4ea3-a52d-75657b5826f7",
@@ -141,7 +148,8 @@
      "email": "info@freiplatzaktion.ch"
     }
    ],
-   "url": "https://www.freiplatzaktion.ch"
+   "url": "https://www.freiplatzaktion.ch",
+   "rules": {}
   },
   {
    "id": "stadt-06116e1c-1e55-4a12-ae8d-665c907e9861",
@@ -165,7 +173,10 @@
      "email": "info@fluechtlingshilfe.ch"
     }
    ],
-   "url": "https://www.fluechtlingshilfe.ch"
+   "url": "https://www.fluechtlingshilfe.ch",
+   "rules": {
+    "remote": true
+   }
   },
   {
    "id": "stadt-af3a27c7-b42c-4d43-ad12-13dce817ab2f",
@@ -189,7 +200,10 @@
      "email": "info@fluechtlingshilfe.ch"
     }
    ],
-   "url": "https://www.fluechtlingshilfe.ch"
+   "url": "https://www.fluechtlingshilfe.ch",
+   "rules": {
+    "remote": true
+   }
   },
   {
    "id": "stadt-c487a5ef-f95c-4aa9-84d1-01fc51d0da2f",
@@ -213,13 +227,14 @@
      "email": "zba@heks.ch"
     }
    ],
-   "url": "https://www.zbasyl.ch"
+   "url": "https://www.zbasyl.ch",
+   "rules": {}
   },
   {
    "id": "stadt-a8620fb2-0fba-4516-93fc-b161bf54c817",
    "src": "Stadt",
    "need": "recht",
-   "access": "direkt",
+   "access": "anmeldung",
    "status": [
     "N",
     "F",
@@ -237,7 +252,8 @@
      "email": "zuerich@sans-papiers.ch"
     }
    ],
-   "url": "https://sans-papiers-zuerich.ch"
+   "url": "https://sans-papiers-zuerich.ch",
+   "rules": {}
   },
   {
    "id": "stadt-99955809-f8cc-422f-befe-86a02056453f",
@@ -261,7 +277,8 @@
      "email": "mirsah@sah-zh.ch"
     }
    ],
-   "url": "https://www.sah-zh.ch/mirsah"
+   "url": "https://www.sah-zh.ch/mirsah",
+   "rules": {}
   },
   {
    "id": "stadt-99424aec-4255-4faa-b1ac-8d6825483d83",
@@ -285,7 +302,8 @@
      "email": "psd@aoz.ch"
     }
    ],
-   "url": "https://aoz.ch/de/fuer-fachpersonen/soziale-integration/psychosozialer-dienst-psd"
+   "url": "https://aoz.ch/de/fuer-fachpersonen/soziale-integration/psychosozialer-dienst-psd",
+   "rules": {}
   },
   {
    "id": "stadt-787b01c9-a815-42d7-8cdb-eea7aa83e299",
@@ -309,7 +327,10 @@
      "email": "schweiz@ncbi.ch"
     }
    ],
-   "url": "https://www.ncbi.ch"
+   "url": "https://www.ncbi.ch",
+   "rules": {
+    "remote": true
+   }
   },
   {
    "id": "stadt-47331ace-6e15-4a87-a7f2-fe6065f69f3d",
@@ -333,7 +354,8 @@
      "email": "info@srk-zuerich.ch"
     }
    ],
-   "url": "https://www.srk-zuerich.ch/"
+   "url": "https://www.srk-zuerich.ch/",
+   "rules": {}
   },
   {
    "id": "stadt-c9f1d029-4cf3-4106-ad82-1da57b4ab5fc",
@@ -357,7 +379,10 @@
      "email": "verein@family-help.ch"
     }
    ],
-   "url": "https://www.family-help.ch/"
+   "url": "https://www.family-help.ch/",
+   "rules": {
+    "womenOnly": true
+   }
   },
   {
    "id": "stadt-af387319-de15-4e80-a451-5add8292a31a",
@@ -381,7 +406,10 @@
      "email": "schweiz@ncbi.ch"
     }
    ],
-   "url": "https://www.ncbi.ch"
+   "url": "https://www.ncbi.ch",
+   "rules": {
+    "remote": true
+   }
   },
   {
    "id": "stadt-e07c6af8-740b-4ef2-89c0-f8cdbc3ca8f6",
@@ -405,7 +433,8 @@
      "email": "verein@family-help.ch"
     }
    ],
-   "url": "https://www.family-help.ch/"
+   "url": "https://www.family-help.ch/",
+   "rules": {}
   },
   {
    "id": "stadt-dc7a55b3-86ca-4819-a783-2d1cb10d3860",
@@ -429,7 +458,10 @@
      "email": "info@offort.ch"
     }
    ],
-   "url": "https://www.offort.ch"
+   "url": "https://www.offort.ch",
+   "rules": {
+    "womenOnly": true
+   }
   },
   {
    "id": "stadt-bb302476-7bd2-46d9-83af-fa7b2e4fe6bb",
@@ -453,7 +485,8 @@
      "email": "info@solinetz.ch"
     }
    ],
-   "url": "https://www.solinetz-zh.ch/projekte"
+   "url": "https://www.solinetz-zh.ch/projekte",
+   "rules": {}
   },
   {
    "id": "stadt-cfaae236-b298-434d-9d5c-9cda9041c432",
@@ -477,7 +510,13 @@
      "email": "info@srk-zuerich.ch"
     }
    ],
-   "url": "https://www.srk-zuerich.ch/"
+   "url": "https://www.srk-zuerich.ch/",
+   "rules": {
+    "age": [
+     5,
+     25
+    ]
+   }
   },
   {
    "id": "stadt-663a4f34-d42b-4830-8b09-1d09f5ec5795",
@@ -501,7 +540,8 @@
      "email": "zuerich-schaffhausen@heks.ch"
     }
    ],
-   "url": "https://www.heks.ch/was-wir-tun?f%5B0%5D=country%3A7"
+   "url": "https://www.heks.ch/was-wir-tun?f%5B0%5D=country%3A7",
+   "rules": {}
   },
   {
    "id": "stadt-35fba45f-5406-42e0-b776-305e519b853c",
@@ -524,7 +564,8 @@
      "email": "info@bildung-fuer-alle.ch"
     }
    ],
-   "url": "https://www.bildung-fuer-alle.ch"
+   "url": "https://www.bildung-fuer-alle.ch",
+   "rules": {}
   },
   {
    "id": "stadt-c954ec3a-e801-4ba5-a185-57ff1a2eaab3",
@@ -548,7 +589,8 @@
      "email": "info@solinetz.ch"
     }
    ],
-   "url": "https://www.solinetz-zh.ch/projekte"
+   "url": "https://www.solinetz-zh.ch/projekte",
+   "rules": {}
   },
   {
    "id": "stadt-9df41c52-2c2c-485c-81ab-ad7c9bf6a1c2",
@@ -572,7 +614,8 @@
      "email": "laufbahnzentrum@zuerich.ch"
     }
    ],
-   "url": "https://www.stadt-zuerich.ch/de/bildung/berufsberatung-laufbahnberatung.html"
+   "url": "https://www.stadt-zuerich.ch/de/bildung/berufsberatung-laufbahnberatung.html",
+   "rules": {}
   },
   {
    "id": "stadt-f158d1f1-56a6-4e7b-ad58-ccbc719400b1",
@@ -596,7 +639,13 @@
      "email": "bb@ajb.zh.ch"
     }
    ],
-   "url": "https://www.zh.ch/de/bildung/berufs-studien-laufbahnberatung/informationen-fachpersonen-berufsberatung/bildungsangebote-migration.html"
+   "url": "https://www.zh.ch/de/bildung/berufs-studien-laufbahnberatung/informationen-fachpersonen-berufsberatung/bildungsangebote-migration.html",
+   "rules": {
+    "age": [
+     16,
+     null
+    ]
+   }
   },
   {
    "id": "stadt-89434e57-6f9f-404e-b8c9-cd85e204a68b",
@@ -620,7 +669,8 @@
      "email": "welcome@futuri.ch"
     }
    ],
-   "url": "https://www.futuri.ch"
+   "url": "https://www.futuri.ch",
+   "rules": {}
   }
  ]
 }

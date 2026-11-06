@@ -29,6 +29,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "familie",
    "access": "anmeldung"
   },
@@ -63,6 +64,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "alphaCourse": true
+   },
    "iazh": "S-03-004",
    "access": "zuweisung"
   },
@@ -98,6 +106,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "alphaCourse": true
+   },
    "iazh": "S-03-005",
    "access": "zuweisung"
   },
@@ -130,6 +145,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     60
+    ],
+    "deMin": "A2"
+   },
    "iazh": "AI-04-021",
    "access": "zuweisung"
   },
@@ -162,6 +184,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     60
+    ],
+    "deMin": "A2"
+   },
    "iazh": "AI-04-020",
    "access": "zuweisung"
   },
@@ -194,6 +223,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     60
+    ],
+    "deMin": "A2"
+   },
    "iazh": "AI-04-022",
    "access": "zuweisung"
   },
@@ -226,6 +262,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     60
+    ],
+    "deMin": "A2"
+   },
    "iazh": "AI-04-023",
    "access": "zuweisung"
   },
@@ -260,6 +303,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A2"
+   },
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -294,6 +340,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     15,
+     25
+    ]
+   },
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -328,6 +380,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     15,
+     25
+    ]
+   },
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -362,6 +420,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     15,
+     25
+    ]
+   },
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -396,6 +460,14 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     16,
+     40
+    ],
+    "deMin": "A2",
+    "literacy": true
+   },
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -430,6 +502,13 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     55
+    ],
+    "deMin": "A1"
+   },
    "need": "arbeit",
    "access": "zuweisung"
   },
@@ -464,6 +543,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-017",
    "access": "zuweisung"
   },
@@ -498,6 +580,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -534,6 +622,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -568,6 +662,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -602,6 +702,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -636,6 +742,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -670,6 +782,13 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "literacy": true
+   },
    "need": "deutsch",
    "access": "direkt"
   },
@@ -700,6 +819,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "literacy": true
+   },
    "iazh": "S-02-004",
    "access": "zuweisung"
   },
@@ -734,6 +860,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "literacy": true
+   },
    "iazh": "S-01-034",
    "access": "zuweisung"
   },
@@ -772,6 +905,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "literacy": true
+   },
    "iazh": "S-01-021",
    "access": "zuweisung"
   },
@@ -806,6 +946,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ],
+    "literacy": true
+   },
    "iazh": "S-01-022",
    "access": "zuweisung"
   },
@@ -840,6 +987,10 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A2",
+    "literacy": true
+   },
    "need": "deutsch",
    "access": "anmeldung"
   },
@@ -875,6 +1026,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "familie",
    "access": "zuweisung"
   },
@@ -909,6 +1061,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-02-014",
    "access": "zuweisung"
   },
@@ -946,6 +1101,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-03-006",
    "access": "zuweisung"
   },
@@ -980,6 +1138,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "arbeit",
    "access": "zuweisung"
   },
@@ -1004,6 +1163,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "info",
    "access": "direkt"
   },
@@ -1041,6 +1201,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "info",
    "access": "direkt"
   },
@@ -1073,6 +1234,7 @@
     "F",
     "B"
    ],
+   "rules": {},
    "iazh": "A-01-005",
    "access": "zuweisung"
   },
@@ -1110,6 +1272,7 @@
     "F",
     "B"
    ],
+   "rules": {},
    "need": "arbeit",
    "access": "zuweisung"
   },
@@ -1142,6 +1305,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "info",
    "access": "anmeldung"
   },
@@ -1174,6 +1338,10 @@
     "F",
     "B"
    ],
+   "rules": {
+    "deMin": "B1",
+    "literacy": true
+   },
    "iazh": "AI-03-008",
    "access": "zuweisung"
   },
@@ -1209,6 +1377,9 @@
     "F",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "A-02-007",
    "access": "zuweisung"
   },
@@ -1243,6 +1414,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-021",
    "access": "zuweisung"
   },
@@ -1277,6 +1451,10 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A2",
+    "literacy": true
+   },
    "need": "deutsch",
    "access": "anmeldung"
   },
@@ -1301,6 +1479,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     18,
+     null
+    ]
+   },
    "need": "gesundheit",
    "access": "zuweisung"
   },
@@ -1325,6 +1509,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     0,
+     25
+    ]
+   },
    "need": "gesundheit",
    "access": "zuweisung"
   },
@@ -1357,6 +1547,9 @@
     "F",
     "B"
    ],
+   "rules": {
+    "deMin": "A2"
+   },
    "iazh": "AI-03-009",
    "access": "zuweisung"
   },
@@ -1390,6 +1583,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A2"
+   },
    "need": "arbeit",
    "access": "zuweisung"
   },
@@ -1424,6 +1620,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-019",
    "access": "zuweisung"
   },
@@ -1458,6 +1657,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-015",
    "access": "zuweisung"
   },
@@ -1496,6 +1698,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "bildung",
    "access": "zuweisung"
   },
@@ -1528,6 +1731,12 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     15,
+     25
+    ]
+   },
    "need": "info",
    "access": "anmeldung"
   },
@@ -1558,6 +1767,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "info",
    "access": "direkt"
   },
@@ -1590,6 +1800,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "info",
    "access": "zuweisung"
   },
@@ -1620,6 +1831,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "kontakte",
    "access": "anmeldung"
   },
@@ -1650,6 +1862,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "kontakte",
    "access": "anmeldung"
   },
@@ -1684,6 +1897,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "arbeit",
    "access": "zuweisung"
   },
@@ -1718,6 +1932,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-014",
    "access": "zuweisung"
   },
@@ -1752,6 +1969,9 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1"
+   },
    "iazh": "AI-01-016",
    "access": "zuweisung"
   },
@@ -1784,6 +2004,13 @@
     "F",
     "B"
    ],
+   "rules": {
+    "age": [
+     16,
+     25
+    ],
+    "alphaCourse": true
+   },
    "iazh": "B-03-001",
    "access": "zuweisung"
   },
@@ -1818,6 +2045,13 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     16,
+     40
+    ],
+    "literacy": true
+   },
    "iazh": "B-01-027",
    "access": "zuweisung"
   },
@@ -1852,6 +2086,13 @@
     "S",
     "B"
    ],
+   "rules": {
+    "age": [
+     16,
+     40
+    ],
+    "literacy": true
+   },
    "iazh": "B-01-001",
    "access": "zuweisung"
   },
@@ -1883,6 +2124,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "arbeit",
    "access": "direkt"
   },
@@ -1914,6 +2156,7 @@
     "S",
     "B"
    ],
+   "rules": {},
    "need": "recht",
    "access": "direkt"
   },
@@ -1948,6 +2191,10 @@
     "S",
     "B"
    ],
+   "rules": {
+    "deMin": "A1",
+    "literacy": true
+   },
    "need": "deutsch",
    "access": "anmeldung"
   }

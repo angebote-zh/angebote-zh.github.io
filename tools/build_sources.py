@@ -5,6 +5,7 @@ which need they answer, how people get in (access) and which permits are admitte
 
 Run: python3 tools/build_sources.py
 """
+import datetime
 import html
 import json
 import pathlib
@@ -93,6 +94,42 @@ AOZ_NEW = {
 # Sections that describe something else than the participants' prerequisites (e.g. volunteers).
 AOZ_NO_VORAUS = {"tueren-oeffnen", "tandemprogramm"}
 FILLER = re.compile(r"^(Standorte?|Gerne beraten wir Sie persönlich\.?|Auf dieser Seite)$")
+# Admission rules taken from the provider texts (age from–to, German minimum, literacy).
+# alphaCourse = suitable for people still learning to read and write; literacy = Latin script required.
+ADULT_LIT = {"age": [18, None], "literacy": True}
+AOZ_RULES = {
+    "alphabetisierung-intensiv-mit-deutschkurs-fuer-langsam-lernende": {"age": [18, None], "alphaCourse": True},
+    "alphabetisierung-semi-intensiv-mit-deutschkurs-fuer-langsam-lernende": {"age": [18, None], "alphaCourse": True},
+    "arbeitsintegrationscoaching-fuer-gut-oder-hochqualifizierte": {"age": [18, 60], "deMin": "A2"},
+    "arbeitsintegrationscoaching-fuer-personen-mit-arbeitsmarktpotenzial": {"age": [18, 60], "deMin": "A2"},
+    "arbeitsintegrationscoaching-fuer-personen-mit-ausbildungspotenzial": {"age": [18, 60], "deMin": "A2"},
+    "arbeitsintegrationscoaching-fuer-personen-mit-psychischen-belastungen": {"age": [18, 60], "deMin": "A2"},
+    "begleitete-ausbildung-schreinerpraktikerin-eba": {"deMin": "A2"},
+    "begleitete-ausbildungen-restaurant-und-kueche-riedbach": {"age": [15, 25]},
+    "begleitete-vorlehre-detailhandelsfachfraumann-textil-oder-moebel": {"age": [15, 25]},
+    "begleitete-vorlehre-fahrradmechanikerin": {"age": [15, 25]},
+    "berufsvorbereitungsjahr-bvj-trampolin-basic": {"age": [16, 40], "deMin": "A2", "literacy": True},
+    "bewerbungsunterstuetzung-und-nachbegleitung": {"age": [18, 55], "deMin": "A1"},
+    "detailhandel-und-transport-brockito": {"deMin": "A1"}, "gep-berufliche-integration": {"deMin": "A1"},
+    "produktionskueche-tasteria-systemgastronomie": {"deMin": "A1"}, "restaurant-riedbach": {"deMin": "A1"},
+    "restaurant-und-catering-paprika": {"deMin": "A1"}, "velostationen-zueri-rollt": {"deMin": "A1"},
+    "velowerkstatt-zueri-rollt": {"deMin": "A1"}, "gastrokurs-mit-zertifikat-gastrozuerich": {"deMin": "A1"},
+    "pflegekurs-mit-srk-gleichwertigkeitszertifikat": {"deMin": "B1", "literacy": True},
+    "reinigungskurs-mit-wetrok-zertifikat": {"deMin": "A2"},
+    "praxisassessment": {"deMin": "A1"}, "ressourcenabklaerung": {"deMin": "A2"},
+    "deutsch-lokal-a1-a2": ADULT_LIT, "deutsch-mit-ziel-arbeitsmarkt-intensiv-a1-b2": ADULT_LIT,
+    "deutsch-mit-ziel-arbeitsmarkt-semi-intensiv-a1-b2": ADULT_LIT, "deutsch-mit-ziel-arbeitsmarkt-festigungskurs-a1-a2": ADULT_LIT,
+    "deutschpruefung-telc-a2-b2": {"deMin": "A2", "literacy": True}, "pruefungstraining-telc-a2-b2": {"deMin": "A2", "literacy": True},
+    "fide-test-a1-b1": {"deMin": "A1", "literacy": True},
+    "deutsch-der-bibliothek": {"age": [18, None]}, "deutsch-der-langstrasse": {"age": [18, None]}, "deutsch-im-letzipark": {"age": [18, None]},
+    "deutsch-leimbach": {"age": [18, None]}, "deutsch-oerlikon": {"age": [18, None]}, "deutsch-lernen-mit-dem-handy-und-computer": {"age": [18, None], "literacy": True},
+    "psychotherapie-und-beratung-fuer-minderjaehrige-und-junge-erwachsene": {"age": [0, 25]},
+    "psychotherapie-und-beratung-fuer-erwachsene": {"age": [18, None]},
+    "swiss-info-juniors-kurse": {"age": [15, 25]},
+    "vollschulisches-bildungsangebot-alpha-tast-integral": {"age": [16, 25], "alphaCourse": True},
+    "vollschulisches-bildungsangebot-berufsbildung-basics-intensiv": {"age": [16, 40], "literacy": True},
+    "vollschulisches-bildungsangebot-berufsbildung-integration-intensiv": {"age": [16, 40], "literacy": True},
+}
 AOZ_STATUS = {  # where the text does not say it clearly
     "kurzassessment-kostenlos": ["F", "B"], "pflegekurs-mit-srk-gleichwertigkeitszertifikat": ["F", "B"],
     "reinigungskurs-mit-wetrok-zertifikat": ["F", "B"],
@@ -109,7 +146,7 @@ STADT = [
     ("Schweizerische Flüchtlingshilfe SFH - Informationen", "recht", "direkt"),
     ("Schweizerische Flüchtlingshilfe SFH - Juristische", "recht", "direkt"),
     ("Zürcher Beratungsstelle für Asylsuchende", "recht", "direkt"),
-    ("Anlaufstelle für Sans-Papiers SPAZ", "recht", "direkt"),
+    ("Anlaufstelle für Sans-Papiers SPAZ", "recht", "anmeldung"),
     ("SAH MIRSAH", "recht", "direkt"),
     ("AOZ - Beratung bei psychosozialen Problemen", "gesundheit", "direkt"),
     ("NCBI Schweiz Sektion Zürich - Brückenbauer", "gesundheit", "direkt"),
@@ -127,6 +164,19 @@ STADT = [
     ("Amt für Jugend und Berufsberatung Kanton Zürich – Bildungsangebote für Geflüchtete", "bildung", "direkt"),
     ("Stiftung Futuri - FUTURI Ausbildungsbegleitung", "bildung", "zuweisung"),
 ]
+
+
+STADT_RULES = {
+    "Amt für Jugend und Berufsberatung Kanton Zürich – Bildungsangebote für Geflüchtete": {"age": [16, None]},
+    "SRK \"Meet'n'Speak\"": {"age": [5, 25]},
+    "OFF Ort für Frauen": {"womenOnly": True},
+    "\"aacho\" - Mutter-Kind-Gruppen": {"womenOnly": True},
+    "Schweizerische Flüchtlingshilfe SFH - Informationen": {"remote": True},
+    "Schweizerische Flüchtlingshilfe SFH - Juristische": {"remote": True},
+    "NCBI Schweiz Sektion Zürich - Brückenbauer": {"remote": True},
+    "NCBI Schweiz Sektion Zürich - Kurse für Familien": {"remote": True},
+    "AsyLex": {"remote": True},
+}
 
 
 def get(url, timeout=60):
@@ -266,6 +316,7 @@ def build_aoz():
             "childcare": ["mit Kinderbetreuung"] if "mit Kinderbetreuung" in tags else [],
             "contacts": contacts[:3],
             "status": AOZ_STATUS.get(slug) or status_from(zg + " " + voraus) or (["F", "B"] if slug in AOZ_IAZH else ALL),
+            "rules": AOZ_RULES.get(slug, {}),
         }
         if slug in AOZ_IAZH:
             entry["iazh"] = AOZ_IAZH[slug]
@@ -292,12 +343,13 @@ def build_stadt():
             "lead": text(o.get("description")), "zg": o.get("coverage") or "",
             "contacts": [{k: v for k, v in {"address": addr, "phone": o.get("phone"), "email": o.get("email")}.items() if v}],
             "url": o.get("websiteUrl") or IZS_PAGE,
+            "rules": STADT_RULES.get(prefix, {}),
         })
     return out
 
 
 def main():
-    stamp = __import__("datetime").date.today().isoformat()
+    stamp = datetime.date.today().isoformat()
     aoz = build_aoz()
     for o in aoz:  # the Info-Line numbers sit in a widget the script cannot read
         if o["id"] == "aoz-info-line-fuer-gefluechtete":
