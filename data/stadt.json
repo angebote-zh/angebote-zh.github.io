@@ -1,0 +1,626 @@
+{
+ "fetched": "2026-11-06",
+ "source": "https://www.stadt-zuerich.ch/de/lebenslagen/unterstuetzung-und-beratung/izs/wegweiser/migration/asyl.html",
+ "offers": [
+  {
+   "id": "stadt-9dc0d4af-7fe7-42a3-b938-02a9b4f5105a",
+   "src": "Stadt",
+   "need": "sozial",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "AOZ - soziale und berufliche Integration für Geflüchtete",
+   "inst": "AOZ Geschäftsstelle",
+   "lead": "Die Asylorganisation Zürich (AOZ) ist eine Fachorganisation zur Förderung der sozialen und beruflichen Integration von Geflüchteten und Migrant*innen. Als öffentlich-rechtliche Anstalt der Stadt Zürich erbringt die AOZ Dienstleistungen in den Bereichen \r\n- Bildung & Arbeitsintegration\r\n- Sozialhilfe, Betreuung & Nothilfe\r\n- Förderung der sozialen Integration \r\n- Wissensvermittlung & Consulting.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Eggbühlstrasse 15, 8050 Zürich",
+     "phone": "+41 44 415 65 00",
+     "email": "info@aoz.ch"
+    }
+   ],
+   "url": "https://www.aoz.ch"
+  },
+  {
+   "id": "stadt-2f4a947a-5bae-43d1-9558-6e57ab97b8c1",
+   "src": "Stadt",
+   "need": "sozial",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "SRK Kanton Zürich - Sozialberatung",
+   "inst": "SRK Kanton Zürich - Sozialberatung",
+   "lead": "Die Sozialberatung (früher SOS-Beratung) steht allen Hilfe suchenden Menschen aus dem Kanton Zürich offen, unabhängig von Herkunft oder Aufenthaltsstatus. Triage und Beratung bei Konflikten im Asyl- und Ausländerrecht, in den Bereichen Sozialversicherung, Wohnen, Arbeit, Familie, Gesundheit und Nothilfe. Sprachen: Deutsch, Englisch, Italienisch, Französisch und Spanisch. Kostenlos.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Thurgauerstrasse 36/38, 8050 Zürich",
+     "phone": "+41 44 360 28 53",
+     "email": "info@srk-zuerich.ch"
+    }
+   ],
+   "url": "https://www.srk-zuerich.ch/fuer-sie-da/notsituationen/sozialberatung"
+  },
+  {
+   "id": "stadt-52d04b37-9cf8-4983-af7a-74135f12944f",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Kantonales Sozialamt - Rückkehrberatung für Personen aus dem Asylbereich",
+   "inst": "Kantonales Sozialamt",
+   "lead": "Die Rückkehrberatung unterstützt Asylsuchende, vorläufig Aufgenommene und Flüchtlinge aus dem Kanton Zürich bei der Planung, Vorbereitung und Durchführung der Rückreise ins Heimatland. Sie informiert über Möglichkeiten der Weiterwanderung. \r\nDie Dienstleistungen sind unverbindlich und kostenlos.\r\nTelefonische Beratung: 043 259 52 95, Mo - Fr 8 - 11.30 Uhr und 13.30 - 16.30 Uhr.\r\nBeratungszeiten vor Ort nach Vereinbarung.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Röntgenstrasse 16 / 22, 8090 Zürich",
+     "phone": "+41 43 259 24 51 ",
+     "email": "info@sa.zh.ch "
+    }
+   ],
+   "url": "https://www.zh.ch/de/sicherheitsdirektion/sozialamt.html"
+  },
+  {
+   "id": "stadt-8aadc159-3495-4f26-876d-46b453dbe91c",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Migrationsamt Kanton Zürich - Information über Einreise und Aufenthalt",
+   "inst": "Migrationsamt des Kantons Zürich",
+   "lead": "Das Migrationsamt prüft Anträge auf Einreise und Aufenthalt in der Schweiz. \r\nEs stellt auch Visum-Verlängerungen und Rückreise-Visa aus. \r\nDas Amt ist zuständig für: \r\n- Die Freizügigkeit zwischen der Schweiz und der EU/EFTA\r\n- Die Regeln von Schengen und Dublin\r\n- Das Asylrecht und das Ausländerrecht\r\nAuf der Webseite findet man Informationen zu: \r\n- Einreise und Aufenthalt \r\n- Visa\r\n- Asyl\r\n- Ausweise und Bewilligungen \r\n- Einbürgerung\r\nEs gibt Infos in vielen Sprachen, besonders für Menschen, die neu in Zürich sind. \r\nAuch über Angebote zur Integration im Kanton Zürich kann man sich dort informieren.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Berninastrasse 45, 8057 Zürich",
+     "phone": "+41 43 259 88 00"
+    }
+   ],
+   "url": "https://www.zh.ch/de/sicherheitsdirektion/migrationsamt.html"
+  },
+  {
+   "id": "stadt-4dde0e75-7252-4bcb-ba3a-e12551616cab",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "AsyLex - Online-Information und Rechtsberatung zum Schweizer Asylrecht",
+   "inst": "AsyLex - Information und Rechtsberatung zum Schweizer Asylrecht",
+   "lead": "Auf der Webseite von AsyLex finden Sie Informationen zum Schweizer Asylrecht, zum Beispiel zum Ablauf des Asyl-Verfahrens, bei drohender Abschiebung oder bei Fragen zum Familiennachzug. Ausserdem bietet AsyLex kostenlose Vorlagen und Merkblätter zum Download an. Die spezialisierten Teams beantworten Fragen per E-Mail.",
+   "zg": "",
+   "contacts": [
+    {
+     "email": "info@asylex.ch"
+    }
+   ],
+   "url": "https://www.asylex.ch/?lang=de"
+  },
+  {
+   "id": "stadt-ee485ca7-0487-4ea3-a52d-75657b5826f7",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Freiplatzaktion Zürich - Rechtsberatung im Asyl- und Ausländer*innenrecht",
+   "inst": "Freiplatzaktion Zürich",
+   "lead": "Die Freiplatzaktion Zürich (FPA) setzt sich für die Wahrnehmung und Durchsetzung der Rechte von geflüchteten und migrierten Menschen und ihre Angehörigen ein. Das Angebot umfasst: \r\n- Professionelle und unabhängige Rechtsberatung im Asyl- und Ausländer*Innenrecht \r\n- Übernahme rechtlicher Vertretungen in asyl- und migrationsrechtlichen Verfahren\r\n- Asyl- und migrationspolitische Öffentlichkeitsarbeit \r\nAnmeldungen für die Aufnahme eines Falls oder einer Beratung sind jeden zweiten Montag ab 08.30 Uhr möglich. Die Beratungen finden direkt im Anschluss statt. Weitere Informationen und Daten siehe Webseite.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Dienerstrasse 59, 8004 Zürich",
+     "phone": "+41 44 241 54 11",
+     "email": "info@freiplatzaktion.ch"
+    }
+   ],
+   "url": "https://www.freiplatzaktion.ch"
+  },
+  {
+   "id": "stadt-06116e1c-1e55-4a12-ae8d-665c907e9861",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Schweizerische Flüchtlingshilfe SFH - Informationen zu Asylrecht und Asylverfahren",
+   "inst": "Schweizerische Flüchtlingshilfe SFH",
+   "lead": "«Asyl in der Schweiz» informiert über das Asylverfahren, über Rechtsgrundlagen, Aufenthaltsstatus, Unterbringung, Nothilfe und Integration oder Personengruppen mit besonderen Rechten im Asylverfahren, wie zum Beispiel unbegleitete Minderjährige (UMA / MNA).",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Weyermannsstrasse 10, 3001 Bern",
+     "phone": "+41 31 370 75 75",
+     "email": "info@fluechtlingshilfe.ch"
+    }
+   ],
+   "url": "https://www.fluechtlingshilfe.ch"
+  },
+  {
+   "id": "stadt-af3a27c7-b42c-4d43-ad12-13dce817ab2f",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Schweizerische Flüchtlingshilfe SFH - Juristische und finanzielle Hilfe für Geflüchtete und Asylsuchende",
+   "inst": "Schweizerische Flüchtlingshilfe SFH",
+   "lead": "Die Schweizerische Flüchtlingshilfe bietet eine juristische Sprechstunde an. Sie erteilt telefonisch Rechtsauskünfte zum Asylverfahren und vermittelt Kontakte zu Stellen, die persönliche Beratung und Unterstützung anbieten.\r\nJuristische Sprechstunde: Dienstag , 14 – 17 Uhr, Telefon +41 31 370 75 99\r\nDie Webseite bietet Informationen zum Rechtsschutz mit Beschwerdevorlagen und -anleitungen in verschiedenen Sprachen und zu Rechtsberatungsstellen im Asylverfahren in der Schweiz. Mit dem Unterstützungsfonds kann die Flüchtlingshilfe Geflüchteten in schwierigen Situationen schnell und unbürokratisch helfen.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Weyermannsstrasse 10, 3001 Bern",
+     "phone": "+41 31 370 75 75",
+     "email": "info@fluechtlingshilfe.ch"
+    }
+   ],
+   "url": "https://www.fluechtlingshilfe.ch"
+  },
+  {
+   "id": "stadt-c487a5ef-f95c-4aa9-84d1-01fc51d0da2f",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Zürcher Beratungsstelle für Asylsuchende - Rechtsberatung im Asylverfahren",
+   "inst": "ZBA - Zürcher Beratungsstelle für Asylsuchende",
+   "lead": "Die Zürcher Beratungsstelle für Asylsuchende bietet qualifizierte Rechtsberatung für Asylsuchende (Status N) und vorläufig Aufgenommene (Status F) im Kanton Zürich. Als Fachstelle erteilt sie auch interessierten Dritten Auskünfte rund um Asylverfahren. Die Rechtsberatung ist kostenlos.\r\nDie ZBA bietet folgende Leistungen an:\r\n• Allgemeine Information über das Asylverfahren\r\n• Chancen- und Vorgehensberatung in jedem Verfahrensstadium\r\n• Übernahme der Rechtsvertretung im erweiterten Verfahren sowie in unterstützungswürdigen Fällen\r\n• Unterstützung beim Familiennachzug\r\n• Unterstützung beim Gesuch um humanitäre Aufenthaltsbewilligung\r\n• Hilfe im Umgang mit Behörden und Institutionen\r\n• Weitervermittlung an zuständige Stellen\r\nTelefonische Beratung und Terminvereinbarung: Mo - Fr von 9.30 - 11.30 Uhr\r\nOffene Beratung ohne Voranmeldung, nur für ersten Kontakt: Mi 13.30 - 17 Uhr",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Flurstrasse 50, 8048 Zürich",
+     "phone": "+41 44 454 60 30",
+     "email": "zba@heks.ch"
+    }
+   ],
+   "url": "https://www.zbasyl.ch"
+  },
+  {
+   "id": "stadt-a8620fb2-0fba-4516-93fc-b161bf54c817",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Anlaufstelle für Sans-Papiers SPAZ - Kostenlose Beratung für Migrant*innen ohne geregelten Aufenthaltsstatus",
+   "inst": "Sans-Papiers Anlaufstelle Zürich SPAZ",
+   "lead": "Die SPAZ berät Migrant*innen ohne geregelten Aufenthaltsstatus in rechtlichen und sozialen Fragen, zum Beispiel zu Sozial- und Krankenversicherungen, Bildungsangeboten und Schulpflicht, Ehe / Familie / Familiennachzug, Aufenthaltsstatus, allfällige Legalisierung, Arbeitsbedingungen.\r\nBeratung nach telefonischer Voranmeldung:\r\nMo / Mi 10 - 12 Uhr und Do 14 - 16 Uhr",
+   "zg": "Einwohner*innen Stadt Zürich",
+   "contacts": [
+    {
+     "address": "Kalkbreitestrasse 8, 8003 Zürich",
+     "phone": "+41 43 960 87 77",
+     "email": "zuerich@sans-papiers.ch"
+    }
+   ],
+   "url": "https://sans-papiers-zuerich.ch"
+  },
+  {
+   "id": "stadt-99955809-f8cc-422f-befe-86a02056453f",
+   "src": "Stadt",
+   "need": "recht",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "SAH MIRSAH - Beratungsstelle für Migrations- und Integrationsrecht",
+   "inst": "SAH MIRSAH",
+   "lead": "Rechtsberatung bei Fragen zu Aufenthaltsrecht und -status, Familiennachzug, Arbeitsbewilligungen, Besuchervisa. Unterstützung bei der Beantwortung von Anfragen des Migrationsamts. Telefonische Beratung, Beratung per E-Mail und persönliche Beratung nach Terminvereinbarung.\r\nKeine Beratung zu Asylfragen. \r\nKosten Fr. 50 pro Stunde.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Wilhelmstrasse 10, 8005 Zürich",
+     "phone": "+41 44 291 00 15",
+     "email": "mirsah@sah-zh.ch"
+    }
+   ],
+   "url": "https://www.sah-zh.ch/mirsah"
+  },
+  {
+   "id": "stadt-99424aec-4255-4faa-b1ac-8d6825483d83",
+   "src": "Stadt",
+   "need": "gesundheit",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "AOZ - Beratung bei psychosozialen Problemen für Fachpersonen und für Migrant*innen",
+   "inst": "AOZ PsychoSozialer Dienst",
+   "lead": "Der PsychoSoziale Dienst bietet:\r\n- Beratung für Fachpersonen und Institutionen, welche mit Migrant*innen mit psychischen Beeinträchtigungen und psychosozialen Belastungen arbeiten\r\n- Psychologische Beratung und Begleitung für Migrant*innen mit Traumatisierungen, psychischen Beeinträchtigungen und psychosozialen Belastungen.\r\nDie Angebote sind kostenpflichtig, Tarife siehe Webseite.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Eggbühlstrasse 15, 8050 Zürich",
+     "phone": "+41 44 415 66 99",
+     "email": "psd@aoz.ch"
+    }
+   ],
+   "url": "https://aoz.ch/de/fuer-fachpersonen/soziale-integration/psychosozialer-dienst-psd"
+  },
+  {
+   "id": "stadt-787b01c9-a815-42d7-8cdb-eea7aa83e299",
+   "src": "Stadt",
+   "need": "gesundheit",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "NCBI Schweiz Sektion Zürich - Brückenbauer*innen unterstützen psychisch belastete Geflüchtete",
+   "inst": "NCBI Schweiz Sektion Zürich",
+   "lead": "Menschen, die durch Flucht psychisch belastet oder traumatisiert sind, bekommen Hilfe von einer medizinischen Fachperson und einer/m Brückenbauer*in. Die Brückenbauer*innen sind speziell ausgebildete, zweisprachige Geflüchtete. Sie unterstützen die Menschen im Alltag und arbeiten eng mit einer/m Psychotherapeut*in zusammen. Das Angebot ist in vielen Sprachen verfügbar: Arabisch, Dari/Farsi, Kurdisch, Russisch, Somalisch, Tamilisch, Tigrinja, Türkisch und Ukrainisch.\r\nMedizinische Kosten: Übernahme durch Krankenversicherung. \r\nKosten für Brückenbauer*innen: Übernahme durch zuweisende/fallführende Stellen (siehe Webseite).",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Hobelwerkweg 37a, 8404 Winterthur",
+     "phone": "+41 44 721 10 50",
+     "email": "schweiz@ncbi.ch"
+    }
+   ],
+   "url": "https://www.ncbi.ch"
+  },
+  {
+   "id": "stadt-47331ace-6e15-4a87-a7f2-fe6065f69f3d",
+   "src": "Stadt",
+   "need": "gesundheit",
+   "access": "anmeldung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Spirit - Strategien für mehr Stärke im Alltag",
+   "inst": "SRK Kanton Zürich",
+   "lead": "Kostenlose Unterstützung für geflüchtete Menschen im Kanton Zürich. \r\nSpirit stärkt die psychische Gesundheit und Resilienz von Menschen mit Flucht- oder Migrationshintergrund und fördert die Selbstwirksamkeit, Integration und Lebensqualität der Betroffenen.\r\nEs richtet sich an Personen ab 16 Jahren mit Ausweis N, F, S oder B-Flüchtling oder Familiennachzug im Kanton Zürich. Die Beratungen sind in Arabisch, Dari, Deutsch, Englisch, Farsi, Kurdisch, Französisch, Paschtu, Russisch, Tamilisch, Tigrinya, Türkisch und Ukrainisch möglich. \r\nKontaktaufnahme und Anmeldung: Telefon 044 388 25 57, E-Mail: spirit@srk-zuerich.ch \r\nWeitere Informationen finden Sie auf der Webseite.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Thurgauerstrasse 36/38, 8050 Zürich",
+     "phone": "+41 44 388 25 25",
+     "email": "info@srk-zuerich.ch"
+    }
+   ],
+   "url": "https://www.srk-zuerich.ch/"
+  },
+  {
+   "id": "stadt-c9f1d029-4cf3-4106-ad82-1da57b4ab5fc",
+   "src": "Stadt",
+   "need": "familie",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "aacho - Mutter-Kind-Gruppen",
+   "inst": "Verein family-help",
+   "lead": "Gruppentherapeutisches oder einzeltherapeutisches Angebot für Schwangere, Mütter und ihre Babys und Kleinkinder nach einer Fluchterfahrung / Migrationshintergrund.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Arterstrasse 24, 8032 Zürich",
+     "phone": "+41 43 243 63 53",
+     "email": "verein@family-help.ch"
+    }
+   ],
+   "url": "https://www.family-help.ch/"
+  },
+  {
+   "id": "stadt-af387319-de15-4e80-a451-5add8292a31a",
+   "src": "Stadt",
+   "need": "familie",
+   "access": "anmeldung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "NCBI Schweiz Sektion Zürich - Kurse für Familien aus Eritrea und Syrien",
+   "inst": "NCBI Schweiz Sektion Zürich",
+   "lead": "Das Kursangebot «Erfolgreiches Familienleben in der Schweiz» richtet sich an eritreische und syrische Familien, Paare und Eltern. Ein Team von eritreischen und syrischen Brückenbauer*innen unterstützt Geflüchtete aus Eritrea und Syrien im Familienalltag. Die kostenlosen Kurse finden in den Kantonen Aargau und Zürich jeweils samstags statt und werden auf Tigrinya und Arabisch angeboten. Die Kurse werden mit Kinderbetreuung angeboten.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Hobelwerkweg 37a, 8404 Winterthur",
+     "phone": "+41 44 721 10 50",
+     "email": "schweiz@ncbi.ch"
+    }
+   ],
+   "url": "https://www.ncbi.ch"
+  },
+  {
+   "id": "stadt-e07c6af8-740b-4ef2-89c0-f8cdbc3ca8f6",
+   "src": "Stadt",
+   "need": "kontakte",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "aacho - am Tag",
+   "inst": "Verein family-help",
+   "lead": "Geschütztes therapeutisch-pädagogisches Tagessetting für psychisch belastete geflüchtete Kinder, Jugendliche und Familien, welche an Traumafolgestörungen, Entwicklungsdefiziten und schweren psychosozialen Belastungen leiden.\r\nDas Therapieprogramm \"AACHO - AM TAG\" bietet Kindern, Jugendlichen, Müttern und Familien einen Raum, in welchem sie 3 Tage in der Woche in einem stabilen Umfeld zur Ruhe kommen können.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Arterstrasse 24, 8032 Zürich",
+     "phone": "+41 43 243 63 53",
+     "email": "verein@family-help.ch"
+    }
+   ],
+   "url": "https://www.family-help.ch/"
+  },
+  {
+   "id": "stadt-dc7a55b3-86ca-4819-a783-2d1cb10d3860",
+   "src": "Stadt",
+   "need": "kontakte",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "OFF Ort für Frauen - Begegnungsort für geflüchtete Frauen und Kinder",
+   "inst": "OFF Ort für Frauen",
+   "lead": "OFF Ort für Frauen ist ein geschützter Begegnungsort mit Tagesstruktur und niederschwelligen Angeboten für geflüchtete Frauen und ihre Kinder.\r\nÖffnungszeiten und detaillierte Angebote siehe Webseite.",
+   "zg": "Einwohner*innen Stadt Zürich",
+   "contacts": [
+    {
+     "address": "Stauffacherstrasse 10, 8004 Zürich",
+     "phone": "+41 77 489 27 72",
+     "email": "info@offort.ch"
+    }
+   ],
+   "url": "https://www.offort.ch"
+  },
+  {
+   "id": "stadt-bb302476-7bd2-46d9-83af-fa7b2e4fe6bb",
+   "src": "Stadt",
+   "need": "kontakte",
+   "access": "anmeldung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Solinetz Zürich - Tandem - Persönlicher Austausch und Unterstützung",
+   "inst": "Solinetz Zürich",
+   "lead": "Das 1:1-Tandem bringt geflüchtete Menschen und Personen, die schon länger in der Schweiz leben, zusammen. In regelmässigen Treffen entsteht ein persönlicher Austausch auf Augenhöhe.\r\nFreiwillige unterstützen im Alltag:\r\n- Deutsch sprechen und üben\r\n- gemeinsam Freizeit gestalten\r\n- Gespräche führen und Kontakte knüpfen\r\n- die Umgebung und das Leben in der Schweiz kennenlernen\r\nDas Tandem fördert den Austausch, das gegenseitige Verständnis und das Zusammenleben.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Dienerstrasse 59, 8004 Zürich",
+     "phone": "+41 44 291 96 94",
+     "email": "info@solinetz.ch"
+    }
+   ],
+   "url": "https://www.solinetz-zh.ch/projekte"
+  },
+  {
+   "id": "stadt-cfaae236-b298-434d-9d5c-9cda9041c432",
+   "src": "Stadt",
+   "need": "kontakte",
+   "access": "anmeldung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "SRK Meet'n'Speak - Integrationsangebot für Kinder und Jugendliche",
+   "inst": "SRK Kanton Zürich",
+   "lead": "Gemeinsam plaudern, lesen, basteln, spielen, kochen, essen oder Hausaufgaben lösen – auf natürliche Weise gelingt es fremdsprachigen Kindern und Jugendlichen am besten, ihre Deutschkenntnisse rasch zu verbessern. «Meet'n'Speak» des Zürcher Roten Kreuzes bringt fremdsprachige Kinder, Jugendliche und junge Erwachsene einige Stunden pro Woche mit deutschsprachigen Freiwilligen zusammen und fördert so die Integration.\r\nKontakt und Anmeldung siehe Webseite.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Thurgauerstrasse 36/38, 8050 Zürich",
+     "phone": "+41 44 388 25 25",
+     "email": "info@srk-zuerich.ch"
+    }
+   ],
+   "url": "https://www.srk-zuerich.ch/"
+  },
+  {
+   "id": "stadt-663a4f34-d42b-4830-8b09-1d09f5ec5795",
+   "src": "Stadt",
+   "need": "kontakte",
+   "access": "anmeldung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "HEKS Neue Gärten Zürich - Familiengärten für Migrant*innen und ihre Familien",
+   "inst": "HEKS Geschäftsstelle Zürich / Schaffhausen",
+   "lead": "«HEKS Neue Gärten Zürich» ist ein niederschwelliges, praxisorientiertes Angebot zur sozialen Integration und gesellschaftlichen Teilhabe von geflüchteten Menschen, ihren Familien und ortsansässigen Personen aus den Quartieren. Beim gemeinsamen Gärtnern knüpfen Menschen soziale Kontakte, stärken ihre Gesundheit und erwerben wichtiges Wissen für das Leben in der Schweiz – alles in deutscher Sprache. Die Gartenarbeit ermöglicht eine sinnvolle Tagesstruktur, fördert Partizipation und baut Brücken zur Integration. Die Gartensaison dauert von April bis Oktober, im Winter findet je nach Gartenstandort ein Winterprogramm statt. \r\nKostenpflichtiges Angebot, weitere Informationen siehe Webseite.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Seminarstrasse 28, 8042 Zürich",
+     "phone": "+41 44 360 89 60",
+     "email": "zuerich-schaffhausen@heks.ch"
+    }
+   ],
+   "url": "https://www.heks.ch/was-wir-tun?f%5B0%5D=country%3A7"
+  },
+  {
+   "id": "stadt-35fba45f-5406-42e0-b776-305e519b853c",
+   "src": "Stadt",
+   "need": "deutsch",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Autonome Schule Zürich - Deutschkurse und weitere Kursangebote",
+   "inst": "Autonome Schule Zürich",
+   "lead": "Die Autonome Schule des Vereins «Bildung für Alle» bietet Deutschkurse mit unterschiedlichen Schwerpunkten sowie Kurse in anderen Sprachen, Mathematik oder Computerkurse an. Die Kurse sind kostenlos. Aktive Mitarbeit, zum Beispiel beim Putzen, in einer Arbeitsgruppe, bei Veranstaltungen und so weiter, ist sehr erwünscht. Vor dem ersten Kursbesuch melden sich Interessierte beim Schulbüro an. Die Kursunterlagen sind online verfügbar. Weitere Online-Bildungsangebote können kostenlos genutzt werden.\r\nSchulbüro Öffnungszeiten: Mo / Mi / Fr von 10 - 17 Uhr",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Sihlquai 125, 8005 Zürich",
+     "email": "info@bildung-fuer-alle.ch"
+    }
+   ],
+   "url": "https://www.bildung-fuer-alle.ch"
+  },
+  {
+   "id": "stadt-c954ec3a-e801-4ba5-a185-57ff1a2eaab3",
+   "src": "Stadt",
+   "need": "deutsch",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Solinetz Zürich - Kostenlose Deutschkurse für Geflüchtete",
+   "inst": "Solinetz Zürich",
+   "lead": "Die Kurse richten sich in erster Linie an Personen, die keinen Zugang zu kostenpflichtigen Deutschkursen haben. Verschiedene Niveaus und Kursorte, teilweise mit Betreuung für Kinder. Die Teilnahme am Kurs ist freiwillig und steht allen offen, unabhängig von Aufenthaltsstatus. \r\nStundenplan und Kursorte auf der Webseite.",
+   "zg": "",
+   "contacts": [
+    {
+     "address": "Dienerstrasse 59, 8004 Zürich",
+     "phone": "+41 44 291 96 94",
+     "email": "info@solinetz.ch"
+    }
+   ],
+   "url": "https://www.solinetz-zh.ch/projekte"
+  },
+  {
+   "id": "stadt-9df41c52-2c2c-485c-81ab-ad7c9bf6a1c2",
+   "src": "Stadt",
+   "need": "bildung",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Laufbahnzentrum Zürich - Information für Migrant*innen und Geflüchtete",
+   "inst": "Laufbahnzentrum",
+   "lead": "Das Laufbahnzentrum bietet gerne Beratung zu folgenden Themen an:\r\n- Arbeitsmarkt-Integration, Stellensuche und Bewerbung\r\n- Anerkennung ausländischer Diplome\r\n- Berufsabschluss für Erwachsene\r\n- Beruf, Studium, Aus- und Weiterbildung\r\n- Finanzierung von Aus- und Weiterbildung\r\nOhne Anmeldung und kostenlos\r\nÖffnungszeiten Infocenter\r\nMontag, Dienstag, Freitag: 8-17.30 Uhr\r\nMittwoch: 13.30-17.30 Uhr\r\nDonnerstag: 8-19 Uhr\r\nSamstag: 9.15-13.15 Uhr",
+   "zg": "Einwohner*innen Stadt Zürich",
+   "contacts": [
+    {
+     "address": "Konradstrasse 58, 8005 Zürich",
+     "phone": "+41 44 412 78 78",
+     "email": "laufbahnzentrum@zuerich.ch"
+    }
+   ],
+   "url": "https://www.stadt-zuerich.ch/de/bildung/berufsberatung-laufbahnberatung.html"
+  },
+  {
+   "id": "stadt-f158d1f1-56a6-4e7b-ad58-ccbc719400b1",
+   "src": "Stadt",
+   "need": "bildung",
+   "access": "direkt",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Amt für Jugend und Berufsberatung Kanton Zürich – Bildungsangebote für Geflüchtete",
+   "inst": "Amt für Jugend und Berufsberatung - Bildungsangebote Migration",
+   "lead": "Verschiedene Bildungsangebote für anerkannte Flüchtlinge, vorläufig Aufgenommene und spätzugewanderte Personen. Zum Beispiel «Kompetenzen-Check biz/LBZ», «START! Berufsbildung» oder Integrationsvorlehre. Die Integrationsvorlehre (Invol) Jugendliche und junge Erwachsene, die motiviert sind, in der Schweiz eine Berufsausbildung zu absolvieren.\r\nErste Anlaufstelle für eine Anmeldung sind die regionalen Berufsinformationszentren biz. Mehr Informationen dazu finden Sie auf der Webseite.",
+   "zg": "Einwohner*innen Kanton Zürich",
+   "contacts": [
+    {
+     "address": "Dörflistrasse 120, 8090 Zürich",
+     "phone": "+41 43 259 97 35",
+     "email": "bb@ajb.zh.ch"
+    }
+   ],
+   "url": "https://www.zh.ch/de/bildung/berufs-studien-laufbahnberatung/informationen-fachpersonen-berufsberatung/bildungsangebote-migration.html"
+  },
+  {
+   "id": "stadt-89434e57-6f9f-404e-b8c9-cd85e204a68b",
+   "src": "Stadt",
+   "need": "bildung",
+   "access": "zuweisung",
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "title": "Stiftung Futuri - FUTURI Ausbildungsbegleitung für Flüchtlinge",
+   "inst": "Stiftung Futuri",
+   "lead": "Die Stiftung Futuri unterstützt Geflüchtete und vorläufig aufgenommene Personen bei der beruflichen und sozialen Integration um ihnen insbesondere eine Ausbildung zu ermöglichen. Sie setzen sich dafür ein, dass Geflüchtete eine Lehre nicht nur beginnen, sondern erfolgreich abschliessen.\r\nDie Aufnahme ins Angebot erfolgt über Zuweisungen von sozialen Diensten oder Beiständen.\r\nWeitere Informationen finden Sie auf der Webseite.",
+   "zg": "Einwohner*innen Stadt Zürich",
+   "contacts": [
+    {
+     "address": "Weinbergstrasse 29, 8006 Zürich",
+     "phone": "+41 44 552 72 42",
+     "email": "welcome@futuri.ch"
+    }
+   ],
+   "url": "https://www.futuri.ch"
+  }
+ ]
+}

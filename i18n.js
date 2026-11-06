@@ -31,7 +31,7 @@ export const T = {
   de: {
     appTitle: "Integrationsangebote Stadt Zürich", tagline: "Kurse und Programme für Geflüchtete in der Stadt Zürich",
     chooseLang: "Sprache wählen", modeSelf: "Ich suche ein Angebot für mich", modeSelfSub: "6 einfache Fragen",
-    modePro: "Ich bin Fachperson", modeProSub: "Alle Angebote mit Filtern, Kosten und Merkliste",
+    modePro: "Ich bin Fachperson", modeProSub: "Welcome Desk: Anliegen, Voraussetzungen, Zugangsweg, Kontakt",
     back: "Zurück", restart: "Neu beginnen", step: "Frage {i} von {n}",
     qStatus: "Welchen Ausweis haben Sie?", stF: "F – vorläufig aufgenommen", stB: "B – anerkannter Flüchtling",
     stN: "N – asylsuchend", stS: "S – Schutzstatus", stX: "Anderer Ausweis / weiss nicht",
@@ -55,6 +55,7 @@ export const T = {
     tg_young: "für 16–25 Jahre", tg_adult: "für Erwachsene", tg_women: "für Frauen", tg_alpha1620: "Lesen und Schreiben, 16–20 Jahre",
     tg_unschooled: "wenig Schulerfahrung", tg_schooled: "mit Schulerfahrung", tg_qualified: "mit Berufsausbildung oder Studium",
     tg_psych: "bei psychischer Belastung", tg_deaf: "für Gehörlose",
+    n_info: "Informationen zum Leben in Zürich", n_sozial: "Geld, Wohnen, Alltag (Sozialhilfe)", n_recht: "Rechtsberatung, Asylverfahren", n_gesundheit: "Gesundheit und Psyche", n_familie: "Familie und Kinder", n_kontakte: "Kontakte und Freizeit", acc_direkt: "Direkt hingehen oder anrufen", acc_anmeldung: "Selbst anmelden", acc_zuweisung: "Über Ihre Sozialarbeiterin / Ihren Sozialarbeiter", contact: "Kontakt",
   },
   en: {
     appTitle: "Integration programmes, City of Zurich", tagline: "Courses and programmes for refugees in the City of Zurich",
@@ -83,6 +84,7 @@ export const T = {
     tg_young: "for ages 16–25", tg_adult: "for adults", tg_women: "for women", tg_alpha1620: "reading and writing, ages 16–20",
     tg_unschooled: "little school experience", tg_schooled: "with school experience", tg_qualified: "with vocational training or degree",
     tg_psych: "for people under psychological strain", tg_deaf: "for deaf people",
+    n_info: "Information about life in Zurich", n_sozial: "Money, housing, daily life (social assistance)", n_recht: "Legal advice, asylum procedure", n_gesundheit: "Health and mental health", n_familie: "Family and children", n_kontakte: "Contacts and leisure", acc_direkt: "Go directly or call", acc_anmeldung: "Register yourself", acc_zuweisung: "Through your social worker", contact: "Contact",
   },
   fr: {
     appTitle: "Offres d’intégration, Ville de Zurich", tagline: "Cours et programmes pour personnes réfugiées dans la ville de Zurich",
@@ -111,6 +113,7 @@ export const T = {
     tg_young: "pour les 16–25 ans", tg_adult: "pour adultes", tg_women: "pour femmes", tg_alpha1620: "lire et écrire, 16–20 ans",
     tg_unschooled: "peu d’expérience scolaire", tg_schooled: "avec expérience scolaire", tg_qualified: "avec formation ou études",
     tg_psych: "en cas de charge psychique", tg_deaf: "pour personnes sourdes",
+    n_info: "Informations sur la vie à Zurich", n_sozial: "Argent, logement, quotidien (aide sociale)", n_recht: "Conseil juridique, procédure d’asile", n_gesundheit: "Santé et santé psychique", n_familie: "Famille et enfants", n_kontakte: "Contacts et loisirs", acc_direkt: "Y aller directement ou appeler", acc_anmeldung: "S’inscrire soi-même", acc_zuweisung: "Par votre assistant·e social·e", contact: "Contact",
   },
   ar: {
     appTitle: "برامج الاندماج في مدينة زيورخ", tagline: "دورات وبرامج للاجئين في مدينة زيورخ",
@@ -139,6 +142,7 @@ export const T = {
     tg_young: "لعمر 16–25", tg_adult: "للبالغين", tg_women: "للنساء", tg_alpha1620: "القراءة والكتابة، 16–20 سنة",
     tg_unschooled: "خبرة مدرسية قليلة", tg_schooled: "مع خبرة مدرسية", tg_qualified: "مع تدريب مهني أو دراسة",
     tg_psych: "في حالة ضغط نفسي", tg_deaf: "للصم",
+    n_info: "معلومات عن الحياة في زيورخ", n_sozial: "المال والسكن والحياة اليومية (المساعدة الاجتماعية)", n_recht: "استشارة قانونية، إجراءات اللجوء", n_gesundheit: "الصحة والصحة النفسية", n_familie: "الأسرة والأطفال", n_kontakte: "التواصل وأوقات الفراغ", acc_direkt: "اذهب مباشرة أو اتصل", acc_anmeldung: "سجّل بنفسك", acc_zuweisung: "عن طريق الأخصائي/ة الاجتماعي/ة", contact: "التواصل",
   },
   fa: {
     appTitle: "برنامه‌های ادغام در شهر زوریخ", tagline: "دوره‌ها و برنامه‌ها برای پناهندگان در شهر زوریخ",
@@ -167,6 +171,7 @@ export const T = {
     tg_young: "برای ۱۶ تا ۲۵ سال", tg_adult: "برای بزرگسالان", tg_women: "برای زنان", tg_alpha1620: "خواندن و نوشتن، ۱۶ تا ۲۰ سال",
     tg_unschooled: "تجربه مدرسه کم", tg_schooled: "با تجربه مدرسه", tg_qualified: "با آموزش حرفه‌ای یا تحصیلات دانشگاهی",
     tg_psych: "در صورت فشار روانی", tg_deaf: "برای ناشنوایان",
+    n_info: "اطلاعات درباره زندگی در زوریخ", n_sozial: "پول، مسکن، زندگی روزمره (کمک اجتماعی)", n_recht: "مشاوره حقوقی، روند پناهندگی", n_gesundheit: "سلامت جسم و روان", n_familie: "خانواده و کودکان", n_kontakte: "ارتباطات و اوقات فراغت", acc_direkt: "مستقیم بروید یا تماس بگیرید", acc_anmeldung: "خودتان ثبت‌نام کنید", acc_zuweisung: "از طریق مددکار اجتماعی شما", contact: "تماس",
   },
   prs: {
     appTitle: "برنامه‌های ادغام در شهر زوریخ", tagline: "کورس‌ها و برنامه‌ها برای پناهندگان در شهر زوریخ",
@@ -195,6 +200,7 @@ export const T = {
     tg_young: "برای ۱۶ تا ۲۵ ساله", tg_adult: "برای بزرگسالان", tg_women: "برای خانم‌ها", tg_alpha1620: "خواندن و نوشتن، ۱۶ تا ۲۰ ساله",
     tg_unschooled: "تجربه مکتب کم", tg_schooled: "با تجربه مکتب", tg_qualified: "با آموزش مسلکی یا تحصیلات",
     tg_psych: "در صورت فشار روحی", tg_deaf: "برای ناشنوایان",
+    n_info: "معلومات درباره زندگی در زوریخ", n_sozial: "پول، خانه، زندگی روزمره (کمک اجتماعی)", n_recht: "مشوره حقوقی، روند پناهندگی", n_gesundheit: "صحت و صحت روانی", n_familie: "فامیل و اطفال", n_kontakte: "ارتباطات و وقت فارغت", acc_direkt: "مستقیم بروید یا زنگ بزنید", acc_anmeldung: "خود ثبت نام کنید", acc_zuweisung: "از طریق مددکار اجتماعی شما", contact: "تماس",
   },
   ps: {
     appTitle: "د زیوریخ په ښار کې د یوځای کېدو پروګرامونه", tagline: "د زیوریخ په ښار کې د کډوالو لپاره کورسونه او پروګرامونه",
@@ -223,6 +229,7 @@ export const T = {
     tg_young: "د ۱۶ تر ۲۵ کلنو لپاره", tg_adult: "د لویانو لپاره", tg_women: "د ښځو لپاره", tg_alpha1620: "لوستل او لیکل، ۱۶ تر ۲۰ کلن",
     tg_unschooled: "لږ ښوونځي تجربه", tg_schooled: "د ښوونځي تجربې سره", tg_qualified: "د مسلکي زده کړې یا پوهنتون سره",
     tg_psych: "د رواني فشار په حالت کې", tg_deaf: "د کڼو لپاره",
+    n_info: "په زیوریخ کې د ژوند په اړه معلومات", n_sozial: "پیسې، کور، ورځنی ژوند (ټولنیزه مرسته)", n_recht: "حقوقي مشوره، د پناه غوښتنې بهیر", n_gesundheit: "روغتیا او رواني روغتیا", n_familie: "کورنۍ او ماشومان", n_kontakte: "اړیکې او وزګار وخت", acc_direkt: "مستقیم ورشئ یا زنګ ووهئ", acc_anmeldung: "پخپله نوم ولیکئ", acc_zuweisung: "د خپل ټولنیز کارکوونکي له لارې", contact: "اړیکه",
   },
   ckb: {
     appTitle: "بەرنامەکانی تێکەڵبوون لە شاری زیوریخ", tagline: "خول و بەرنامە بۆ پەنابەران لە شاری زیوریخ",
@@ -251,6 +258,7 @@ export const T = {
     tg_young: "بۆ تەمەنی ١٦–٢٥", tg_adult: "بۆ گەورەسالان", tg_women: "بۆ ئافرەتان", tg_alpha1620: "خوێندن و نووسین، ١٦–٢٠ ساڵ",
     tg_unschooled: "ئەزموونی قوتابخانەی کەم", tg_schooled: "لەگەڵ ئەزموونی قوتابخانە", tg_qualified: "لەگەڵ فێرکاری پیشەیی یان خوێندنی باڵا",
     tg_psych: "لە کاتی فشاری دەروونی", tg_deaf: "بۆ کەڕەکان",
+    n_info: "زانیاری دەربارەی ژیان لە زیوریخ", n_sozial: "پارە، نیشتەجێبوون، ژیانی ڕۆژانە (یارمەتی کۆمەڵایەتی)", n_recht: "ڕاوێژی یاسایی، پرۆسەی پەنابەری", n_gesundheit: "تەندروستی و تەندروستی دەروونی", n_familie: "خێزان و منداڵان", n_kontakte: "پەیوەندی و کاتی بەتاڵ", acc_direkt: "ڕاستەوخۆ بڕۆ یان پەیوەندی بکە", acc_anmeldung: "خۆت ناو تۆمار بکە", acc_zuweisung: "لە ڕێگەی کارمەندی کۆمەڵایەتییەکەتەوە", contact: "پەیوەندی",
   },
   kmr: {
     appTitle: "Pêşniyarên entegrasyonê li bajarê Zurîhê", tagline: "Kurs û bername ji bo penaberan li bajarê Zurîhê",
@@ -279,6 +287,7 @@ export const T = {
     tg_young: "ji bo 16–25 salî", tg_adult: "ji bo mezinan", tg_women: "ji bo jinan", tg_alpha1620: "xwendin û nivîsandin, 16–20 salî",
     tg_unschooled: "tecrûbeya dibistanê kêm", tg_schooled: "bi tecrûbeya dibistanê", tg_qualified: "bi perwerdeya pîşeyî an zanîngehê",
     tg_psych: "di rewşa zexta derûnî de", tg_deaf: "ji bo kesên ker",
+    n_info: "Agahî li ser jiyana li Zurîhê", n_sozial: "Pere, xanî, jiyana rojane (alîkariya civakî)", n_recht: "Şêwra hiqûqî, pêvajoya penaberiyê", n_gesundheit: "Tenduristî û tenduristiya derûnî", n_familie: "Malbat û zarok", n_kontakte: "Têkilî û dema vala", acc_direkt: "Rasterast here an telefon bike", acc_anmeldung: "Bi xwe qeyd bike", acc_zuweisung: "Bi riya karmendê xwe yê civakî", contact: "Têkilî",
   },
   tr: {
     appTitle: "Zürih Şehri entegrasyon programları", tagline: "Zürih Şehri’nde mülteciler için kurslar ve programlar",
@@ -307,6 +316,7 @@ export const T = {
     tg_young: "16–25 yaş için", tg_adult: "yetişkinler için", tg_women: "kadınlar için", tg_alpha1620: "okuma yazma, 16–20 yaş",
     tg_unschooled: "az okul deneyimi", tg_schooled: "okul deneyimi olan", tg_qualified: "meslek eğitimi veya üniversite mezunu",
     tg_psych: "psikolojik yük durumunda", tg_deaf: "işitme engelliler için",
+    n_info: "Zürih’te yaşam hakkında bilgi", n_sozial: "Para, konut, günlük yaşam (sosyal yardım)", n_recht: "Hukuki danışmanlık, iltica süreci", n_gesundheit: "Sağlık ve ruh sağlığı", n_familie: "Aile ve çocuklar", n_kontakte: "Sosyal ilişkiler ve boş zaman", acc_direkt: "Doğrudan gidin veya arayın", acc_anmeldung: "Kendiniz kaydolun", acc_zuweisung: "Sosyal hizmet uzmanınız aracılığıyla", contact: "İletişim",
   },
   ti: {
     appTitle: "ኣብ ከተማ ዙሪክ ናይ ምውህሃድ መደባት", tagline: "ኣብ ከተማ ዙሪክ ንስደተኛታት ኮርስታትን መደባትን",
@@ -335,6 +345,7 @@ export const T = {
     tg_young: "ን16–25 ዓመት", tg_adult: "ንዓበይቲ", tg_women: "ንደቂ ኣንስትዮ", tg_alpha1620: "ምንባብን ምጽሓፍን፣ 16–20 ዓመት",
     tg_unschooled: "ውሑድ ተሞክሮ ቤት ትምህርቲ", tg_schooled: "ምስ ተሞክሮ ቤት ትምህርቲ", tg_qualified: "ምስ ሞያዊ ስልጠና ወይ ዩኒቨርሲቲ",
     tg_psych: "ኣብ ኩነታት ስነ-ኣእምሮኣዊ ጸቕጢ", tg_deaf: "ንጽሙማት",
+    n_info: "ብዛዕባ ህይወት ኣብ ዙሪክ ሓበሬታ", n_sozial: "ገንዘብ፣ መንበሪ፣ መዓልታዊ ህይወት (ማሕበራዊ ሓገዝ)", n_recht: "ሕጋዊ ምኽሪ፣ መስርሕ ዑቕባ", n_gesundheit: "ጥዕናን ስነ-ኣእምሮኣዊ ጥዕናን", n_familie: "ስድራቤትን ቆልዑን", n_kontakte: "ርክባትን ናጻ ግዜን", acc_direkt: "ብቐጥታ ኺድ ወይ ደውል", acc_anmeldung: "ባዕልኻ ተመዝገብ", acc_zuweisung: "ብመንገዲ ማሕበራዊ ሰራሕተኛኻ", contact: "ርክብ",
   },
   uk: {
     appTitle: "Інтеграційні програми міста Цюрих", tagline: "Курси та програми для біженців у місті Цюрих",
@@ -363,6 +374,7 @@ export const T = {
     tg_young: "для 16–25 років", tg_adult: "для дорослих", tg_women: "для жінок", tg_alpha1620: "читання й письмо, 16–20 років",
     tg_unschooled: "мало шкільного досвіду", tg_schooled: "зі шкільним досвідом", tg_qualified: "з профосвітою або вищою освітою",
     tg_psych: "при психологічному навантаженні", tg_deaf: "для глухих",
+    n_info: "Інформація про життя в Цюриху", n_sozial: "Гроші, житло, побут (соціальна допомога)", n_recht: "Юридична консультація, процедура притулку", n_gesundheit: "Здоров’я та психічне здоров’я", n_familie: "Сім’я та діти", n_kontakte: "Контакти та дозвілля", acc_direkt: "Прийти напряму або зателефонувати", acc_anmeldung: "Зареєструватися самостійно", acc_zuweisung: "Через вашого соціального працівника", contact: "Контакт",
   },
   ru: {
     appTitle: "Интеграционные программы города Цюрих", tagline: "Курсы и программы для беженцев в городе Цюрих",
@@ -391,6 +403,7 @@ export const T = {
     tg_young: "для 16–25 лет", tg_adult: "для взрослых", tg_women: "для женщин", tg_alpha1620: "чтение и письмо, 16–20 лет",
     tg_unschooled: "мало школьного опыта", tg_schooled: "со школьным опытом", tg_qualified: "с профобразованием или высшим образованием",
     tg_psych: "при психологической нагрузке", tg_deaf: "для глухих",
+    n_info: "Информация о жизни в Цюрихе", n_sozial: "Деньги, жильё, быт (социальная помощь)", n_recht: "Юридическая консультация, процедура убежища", n_gesundheit: "Здоровье и психическое здоровье", n_familie: "Семья и дети", n_kontakte: "Общение и досуг", acc_direkt: "Прийти напрямую или позвонить", acc_anmeldung: "Зарегистрироваться самостоятельно", acc_zuweisung: "Через вашего социального работника", contact: "Контакт",
   },
   so: {
     appTitle: "Barnaamijyada isdhexgalka, Magaalada Zürich", tagline: "Koorsooyin iyo barnaamijyo loogu talagalay qaxootiga Magaalada Zürich",
@@ -419,6 +432,7 @@ export const T = {
     tg_young: "loogu talagalay 16–25 jir", tg_adult: "loogu talagalay dadka waaweyn", tg_women: "loogu talagalay haweenka", tg_alpha1620: "akhris iyo qoraal, 16–20 jir",
     tg_unschooled: "khibrad dugsi oo yar", tg_schooled: "leh khibrad dugsi", tg_qualified: "leh tababar xirfadeed ama jaamacad",
     tg_psych: "marka ay jirto culays nafsi ah", tg_deaf: "loogu talagalay dadka dhegoolaha ah",
+    n_info: "Macluumaad ku saabsan nolosha Zürich", n_sozial: "Lacag, guri, nolol maalmeed (gargaar bulsho)", n_recht: "La-talin sharci, habka magangalyada", n_gesundheit: "Caafimaad iyo caafimaadka maskaxda", n_familie: "Qoys iyo carruur", n_kontakte: "Xiriir iyo waqti firaaqo", acc_direkt: "Si toos ah u tag ama wac", acc_anmeldung: "Adigu is diiwaangeli", acc_zuweisung: "Iyada oo loo marayo shaqaalahaaga bulshada", contact: "Xiriir",
   },
   ta: {
     appTitle: "சூரிச் நகர ஒருங்கிணைப்புத் திட்டங்கள்", tagline: "சூரிச் நகரில் அகதிகளுக்கான வகுப்புகள் மற்றும் திட்டங்கள்",
@@ -447,5 +461,6 @@ export const T = {
     tg_young: "16–25 வயதினருக்கு", tg_adult: "பெரியவர்களுக்கு", tg_women: "பெண்களுக்கு", tg_alpha1620: "படித்தல் எழுதுதல், 16–20 வயது",
     tg_unschooled: "குறைந்த பள்ளி அனுபவம்", tg_schooled: "பள்ளி அனுபவத்துடன்", tg_qualified: "தொழிற்பயிற்சி அல்லது பட்டப்படிப்புடன்",
     tg_psych: "மன அழுத்த நிலையில்", tg_deaf: "காது கேளாதோருக்கு",
+    n_info: "சூரிச் வாழ்க்கை பற்றிய தகவல்", n_sozial: "பணம், வீடு, அன்றாட வாழ்க்கை (சமூக உதவி)", n_recht: "சட்ட ஆலோசனை, புகலிட நடைமுறை", n_gesundheit: "உடல்நலம் மற்றும் மனநலம்", n_familie: "குடும்பம் மற்றும் குழந்தைகள்", n_kontakte: "தொடர்புகள் மற்றும் ஓய்வு நேரம்", acc_direkt: "நேரடியாகச் செல்லுங்கள் அல்லது அழையுங்கள்", acc_anmeldung: "நீங்களே பதிவு செய்யுங்கள்", acc_zuweisung: "உங்கள் சமூகப் பணியாளர் மூலம்", contact: "தொடர்பு",
   },
 };

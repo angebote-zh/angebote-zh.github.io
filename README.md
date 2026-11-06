@@ -1,24 +1,21 @@
 # Integrationsangebote Stadt Zürich
 
-Suchhilfe für Kurse und Programme für Geflüchtete in der Stadt Zürich: https://angebote-zh.github.io
+Wegweiser für Angebote für Geflüchtete in der Stadt Zürich: https://angebote-zh.github.io
 
-- **Einfache Suche (15 Sprachen):** 6 Fragen (Ausweis, Alter, Deutsch, Ziel, Kinderbetreuung, Frau), danach eine passende Liste zum Zeigen, Drucken oder Kopieren, mit der Nummer der AOZ Info-Line in der gewählten Sprache.
-- **Fachpersonen (Deutsch):** alle Angebote als Tabelle mit Filtern (Zielgruppe, Deutsch-Niveau, Ziel, Thema, Kinderbetreuung, Ort), Kosten, Merkliste und CSV-Export.
+- **Welcome Desk / Fachpersonen:** Anliegen wählen (Information, Sozialhilfe, Recht, Deutsch, Ausbildung, Arbeit, Gesundheit, Familie, Kontakte), optional Ausweis, Alter, Deutsch, Kinderbetreuung, Fallführung. Ergebnis nach Zugangsweg: direkt hingehen, selbst anmelden, Zuweisung über die fallführende Stelle; mit Voraussetzungen, Kosten, Kontakt. Merkliste als Text oder Handout.
+- **Tabelle:** alle Angebote mit Filtern und CSV-Export.
+- **Für Geflüchtete (15 Sprachen):** 6 Fragen, danach passende Angebote nach Zugangsweg und die Nummer der AOZ Info-Line in der gewählten Sprache.
 
 ## Daten
 
-| Datei | Quelle | Stand |
+| Datei | Quelle | Wie |
 |---|---|---|
-| `data/iazh.json` | Angebotsdatenbank Integrationsagenda Kanton Zürich, [integrationsangebote.zh.ch](https://integrationsangebote.zh.ch/home) | siehe `fetched` |
-| `data/viventa.json` | [Fachschule Viventa, Stadt Zürich](https://www.stadt-zuerich.ch/de/bildung/ausbildung-weiterbildung/integrationsangebote.html), von Hand erfasst | siehe `fetched` |
+| `data/iazh.json` | Angebotsdatenbank Integrationsagenda Kanton Zürich ([integrationsangebote.zh.ch](https://integrationsangebote.zh.ch/home)) | `python3 tools/refresh.py`; die App zeigt nur Angebote in der Stadt (Region «Zürich» = Stadt; ohne Region zählt der Ort). Für Ausweis F und B, Zuweisung über die fallführende Stelle. |
+| `data/aoz.json` | [AOZ Kurse und Angebote](https://aoz.ch/de/kurse-und-angebote) | `python3 tools/build_sources.py`; Einordnung (Anliegen, Zugang, Ausschlüsse, Zusammenführung mit IAZH) steht in den Listen oben im Skript. Neue AOZ-Angebote ohne Einordnung lassen das Skript abbrechen. |
+| `data/stadt.json` | [Wegweiser Stadt Zürich](https://www.stadt-zuerich.ch/de/lebenslagen/unterstuetzung-und-beratung/izs/wegweiser/migration/asyl.html), Rubrik Asyl plus ausgewählte Einträge für Geflüchtete | ebenfalls `tools/build_sources.py` (Liste `STADT`) |
+| `data/viventa.json` | [Fachschule Viventa](https://www.stadt-zuerich.ch/de/bildung/ausbildung-weiterbildung/integrationsangebote.html) | von Hand aus den Zulassungsseiten |
 
-Die Kantonsdatenbank enthält Angebote aus dem ganzen Kanton. Das Tool zeigt nur Angebote in der Stadt Zürich (Region «Zürich» = Bezirk Zürich = Stadt; ohne Regionsangabe zählt der Ort). Die IAZH-Angebote sind für vorläufig Aufgenommene (F) und anerkannte Flüchtlinge (B); die Zuweisung läuft über die fallführende Stelle.
-
-Daten aktualisieren:
-
-```sh
-python3 tools/refresh.py
-```
+Ohne Gewähr: Aufnahme, freie Plätze und Finanzierung klärt immer die Stelle selbst.
 
 ## Übersetzungen
 

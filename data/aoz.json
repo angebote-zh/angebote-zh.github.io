@@ -1,0 +1,1955 @@
+{
+ "fetched": "2026-11-06",
+ "source": "https://aoz.ch/de/kurse-und-angebote",
+ "offers": [
+  {
+   "id": "aoz-ahoi-ankommen-mit-kindern-im-vorschulalter",
+   "src": "AOZ",
+   "title": "AHOI – Ankommen mit Kindern im Vorschulalter",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/ahoi-ankommen-mit-kindern-im-vorschulalter",
+   "lead": "Wir begleiten Eltern persönlich und kostenlos.\nMütter und Väter können mit Berater*innen sprechen, die ihre Sprache sprechen.\nDie Berater*innen erklären:\n• wie Kinder Sprache lernen,\n• welche Angebote es für kleine Kinder gibt,\n• wo Familien Hilfe und Beratung bekommen.\nDas Angebot kostet nichts. Es richtet sich an Familien aus dem Asylbereich mit Kindern von 0 bis 4 Jahren und Status B, F, S und N in der Stadt Zürich.\nWird im Auftrag des Sozialdepartements durchgeführt.",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "Eltern können sich selbst anmelden. Auch Bekannte oder Fachstellen (z. B. Mütter- und Väterberatung) können Eltern anmelden.",
+   "orte": "",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Frühe Kindheit",
+     "email": "kindheit@aoz.ch",
+     "phone": "+41 44 415 68 11"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "familie",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-alphabetisierung-intensiv-mit-deutschkurs-fuer-langsam-lernende",
+   "src": "AOZ",
+   "title": "Alphabetisierung intensiv mit Deutschkurs für langsam Lernende",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/alphabetisierung-intensiv-mit-deutschkurs-fuer-langsam-lernende",
+   "lead": "Der Kurs vermittelt grundlegende Lese-, Schreib- und Alltagskompetenzen von Alpha bis A1 und stärkt damit die Selbstständigkeit. Während des Unterrichts wird eine Kinderbetreuung angeboten.",
+   "zg": "Fremdsprachige Erwachsene, die die lateinische Schrift nicht bzw. nicht ausreichend kennen.",
+   "voraus": "",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular an. Danach wird sie/er zum Einstufungstest eingeladen und anschliessend wird ein passender Kurs empfohlen.",
+   "orte": "",
+   "kosten": "CHF 2985.– pro Modul inkl. Lehrmittel und Schulmaterial\nFür Personen aus dem Kanton Zürich, die keine finanzielle Unterstützung durch die Asylfürsorge oder die Arbeitslosenversicherung erhalten, ist der Kurs kostenlos.",
+   "zeiten": "Montag bis Freitag · 8.30–12 oder 13.30–17 Uhr · Moduldauer: 8 Wochen\n4 aufbauende Module",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "Alphabetisierungskurse",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 60 90"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-03-004",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-alphabetisierung-semi-intensiv-mit-deutschkurs-fuer-langsam-lernende",
+   "src": "AOZ",
+   "title": "Alphabetisierung semi-intensiv mit Deutschkurs für langsam Lernende",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/alphabetisierung-semi-intensiv-mit-deutschkurs-fuer-langsam-lernende",
+   "lead": "Der Kurs vermittelt grundlegende Lese-, Schreib- und Alltagskompetenzen von Alpha 1 bis A1 und stärkt damit die Selbstständigkeit. Während des Unterrichts wird eine Kinderbetreuung angeboten.",
+   "zg": "Fremdsprachige Erwachsene, die die lateinische Schrift nicht bzw. nicht ausreichend kennen.",
+   "voraus": "",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular an. Danach wird sie/er zum Einstufungstest eingeladen und anschliessend wird ein passender Kurs empfohlen.",
+   "orte": "",
+   "kosten": "CHF 2985.– pro Modul inkl. Lehrmittel und Schulmaterial\nFür Personen aus dem Kanton Zürich, die keine finanzielle Unterstützung durch die Asylfürsorge oder die Arbeitslosenversicherung erhalten, ist der Kurs kostenlos.",
+   "zeiten": "Montag, Mittwoch, Freitag oder Dienstag, Donnerstag, Freitag · 8.30–12 oder 13.30–17 Uhr",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "FOGO",
+     "phone": "+41 44 415 60 90",
+     "address": "Aargauerstrasse 210, 8048, Zürich"
+    },
+    {
+     "name": "Alphabetisierungskurse",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 60 90"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-03-005",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-arbeitsintegrationscoaching-fuer-gut-oder-hochqualifizierte",
+   "src": "AOZ",
+   "title": "Arbeitsintegrationscoaching für Gut- oder Hochqualifizierte",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/arbeitsintegrationscoaching-fuer-gut-oder-hochqualifizierte",
+   "lead": "Das Jobcoaching unterstützt Sozialhilfeklient*innen bei der Umsetzung eines individuellen Arbeitsintegrationsplans, der Anerkennung/Nachholung eines Bildungsnachweises, bei der Stellensuche und Arbeitsaufnahme.",
+   "zg": "Gut- oder Hochqualifizierte Personen",
+   "voraus": "Voraussetzungen für die Teilnahme: \n• Alter: 18 bis 60 Jahre \n• Deutsch: mind. Niveau A2 (mündlich) \n• Abgeschlossene Berufsbildung (Sekundarstufe II inkl. Maturität oder Tertiärstufe) \n• Bereitschaft und Möglichkeit für ein Arbeitspensum von mindestens 50 %, bei Qualifizierung bis 100 % (Kinderbetreung ist geregelt) \n• Motivation, fehlendes Fachwissen nachzuholen und eine Arbeitsstelle aufzunehmen",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nBitte legen Sie der Anmeldung folgende Dokumente  bei:\n• Ausweiskopie\n• Formular «Ergebnisse der Potenzialabklärung» (Kurzassessment)\n• Berichte aus schon besuchten Programmen\n• Bewerbungsunterlagen (Lebenslauf, Arbeitszeugnisse, Diplome, Deutschzertifikate etc.)",
+   "orte": "",
+   "kosten": "Arbeitsintegrationscoaching (Modul 1–3)\nCHF 1160.– pro Monat \nBewerbungsunterstützung und Nachbegleitung (Modul 3)\nCHF 900.– pro Monat",
+   "zeiten": "Modul 1  \n4 bis 8 Wochen \nModul 2 \n9 bis 15 Monate \nModul 3 \nDas Modul 3 ist als Bewerbungsunterstützung und Nachbegleitung separat buchbar und dauert 2 bis 6 Monate. Eine Nachbegleitung ist bis 3 Monate nach Stellenantritt möglich. \nDie Dauer und der Begleitaufwand hängen von den Voraussetzungen, Bedürfnissen und Zielen der Teilnehmenden ab.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Arbeitsintegrationscoaching",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-04-021",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-arbeitsintegrationscoaching-fuer-personen-mit-arbeitsmarktpotenzial",
+   "src": "AOZ",
+   "title": "Arbeitsintegrationscoaching für Personen mit Arbeitsmarktpotenzial",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/arbeitsintegrationscoaching-fuer-personen-mit-arbeitsmarktpotenzial",
+   "lead": "Das Jobcoaching unterstützt Sozialhilfeklient*innen bei der Umsetzung eines individuellen Arbeitsintegrationsplans, bei der Stellensuche und Arbeitsaufnahme.",
+   "zg": "Personen mit Arbeitsmarktpotenzial",
+   "voraus": "• 18 bis 60 Jahre\n• Mündliche Deutschkenntnisse mind. auf Niveau A2\n• Möglichkeit, einer geregelten Arbeit im Umfang von 40% nachzugehen (allfällig benötigte Kinderbetreuung ist vorhanden)\n• Motivation, fehlendes Fachwissen nachzuholen und eine Arbeitsstelle aufzunehmen\n• Geregelte Wohnsituation",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nBitte legen Sie der Anmeldung folgende Dokumente bei:\n• Ausweiskopie\n• Formular «Ergebnisse der Potenzialabklärung» (Kurzassessment)\n• Berichte aus schon besuchten Programmen\n• Bewerbungsunterlagen (Lebenslauf, Arbeitszeugnisse, Diplome, Deutschzertifikate etc.)",
+   "orte": "",
+   "kosten": "Arbeitsintegrationscoaching (Modul 1–3) \nCHF 1160.– pro Monat \nBewerbungsunterstützung und Nachbegleitung (Modul 3) \nCHF 900.– pro Monat",
+   "zeiten": "Modul 1  \n4 bis max. 8 Wochen \nModul 2 \n6 bis 12 Monate \nModul 3 \nDas Modul 3 ist als Bewerbungsunterstützung und Nachbegleitung separat buchbar und dauert 2 bis 6 Monate. Eine Nachbegleitung ist bis 3 Monate nach Stellenantritt möglich. \nDie Dauer und der Begleitaufwand hängen von den Voraussetzungen, Bedürfnissen und Zielen der Teilnehmenden ab.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Arbeitsintegrationscoaching",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-04-020",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-arbeitsintegrationscoaching-fuer-personen-mit-ausbildungspotenzial",
+   "src": "AOZ",
+   "title": "Arbeitsintegrationscoaching für Personen mit Ausbildungspotenzial",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/arbeitsintegrationscoaching-fuer-personen-mit-ausbildungspotenzial",
+   "lead": "Das Jobcoaching unterstützt Sozialhilfeklient*innen bei der Vorbereitung einer (Berufs-) Ausbildung, bei der Lehrstellensuche und beim Eintritt in eine Ausbildung.",
+   "zg": "Personen mit Ausbildungspotenzial",
+   "voraus": "• 18 bis 60 Jahre\n• Mündliche Deutschkenntnisse mind. auf Niveau A2\n• Möglichkeit, einer beruflichen Ausbildung mit einem 100%-Pensum nachzugehen (allfällig benötigte Kinderbetreuung ist vorhanden)\n• Motivation und Potenzial, berufsspezifische Anforderungen zu erlernen\n• Geregelte Wohnsituation",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nBitte legen Sie der Anmeldung folgende Dokumente bei:\n• Ausweiskopie\n• Formular «Ergebnisse der Potenzialabklärung» (Kurzassessment)\n• Berichte aus schon besuchten Programmen\n• Bewerbungsunterlagen (Lebenslauf, Arbeitszeugnisse, Diplome, Deutschzertifikate etc.)",
+   "orte": "",
+   "kosten": "Arbeitsintegrationscoaching (Modul 1–3) \nCHF 1160.– pro Monat \nBewerbungsunterstützung und Nachbegleitung (Modul 3) \nCHF 900.– pro Monat",
+   "zeiten": "Modul 1  \n4 bis max. 8 Wochen \nModul 2 \n6 bis 12 Monate \nModul 3 \nDas Modul 3 ist als Bewerbungsunterstützung und Nachbegleitung separat buchbar und dauert 2 bis 6 Monate. Eine Nachbegleitung ist bis zu 3 Monate nach Stellenantritt möglich. \nDie Dauer und der Begleitaufwand hängen von den Voraussetzungen, Bedürfnissen und Zielen der Teilnehmenden ab.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Arbeitsintegrationscoaching",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-04-022",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-arbeitsintegrationscoaching-fuer-personen-mit-psychischen-belastungen",
+   "src": "AOZ",
+   "title": "Arbeitsintegrationscoaching für Personen mit psychischen Belastungen",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/arbeitsintegrationscoaching-fuer-personen-mit-psychischen-belastungen",
+   "lead": "Das Jobcoaching unterstützt Sozialhilfeklient*innen mit psychischen Belastungen bei der Umsetzung eines individuellen Arbeitsintegrationsplans, bei der Stellensuche und Arbeitsaufnahme.",
+   "zg": "Personen mit psychischen Belastungen",
+   "voraus": "• 18 bis 60 Jahre\n• Eine sich manifestierende psychische Belastung ist vorhanden\n• Mündliche Deutschkenntnisse mind. auf Niveau A2\n• Möglichkeit, einer geregelten Arbeit im Umfang eines 20%-Pensums nachzugehen (allfällig benötigte Kinderbetreuung ist vorhanden)\n• Motivation, fehlendes Fachwissen nachzuholen und eine Arbeitsstelle aufzunehmen\n• Geregelte Wohnsituation",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nBitte legen Sie der Anmeldung folgende Dokumente  bei:\n• Ausweiskopie\n• Formular «Ergebnisse der Potenzialabklärung» (Kurzassessment)\n• Berichte aus schon besuchten Programmen\n• Bewerbungsunterlagen (Lebenslauf, Arbeitszeugnisse, Diplome, Deutschzertifikate etc.)",
+   "orte": "",
+   "kosten": "Arbeitsintegrationscoaching (Modul 1–3) \nCHF 1160.– pro Monat \nBewerbungsunterstützung und Nachbegleitung (Modul 3) \nCHF 900.– pro Monat",
+   "zeiten": "Modul 1  \n4 bis 8 Wochen \nModul 2 \n9 bis 15 Monate \nModul 3 \nDas Modul 3 ist als Bewerbungsunterstützung und Nachbegleitung separat buchbar und dauert 2 bis 6 Monate. Eine Nachbegleitung ist bis zu 3 Monate nach Stellenantritt möglich. \nDie Dauer und der Begleitaufwand hängen von den Voraussetzungen, Bedürfnissen und Zielen der Teilnehmenden ab.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Arbeitsintegrationscoaching",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-04-023",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-begleitete-ausbildung-schreinerpraktikerin-eba",
+   "src": "AOZ",
+   "title": "Begleitete Ausbildung Schreinerpraktiker*in EBA",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/begleitete-ausbildung-schreinerpraktikerin-eba",
+   "lead": "Die AOZ unterstützt Jugendliche und junge Erwachsene mit grossen schulischen Lücken und/oder (psycho-)sozialen Herausforderungen und befähigen sie mit individuellen Unterstützungsleistungen, eine Lehre erfolgreich abzuschliessen.",
+   "zg": "Personen mit Unterstützungsbedarf für einen erfolgreichen Lehrabschluss",
+   "voraus": "• Jugendliche und Erwachsene mit grossen schulischen Lücken und / oder (psycho-)sozialen Herausforderungen (unabhängig vom Aufenthaltsstatus) \n• Gefestigte Deutschkenntnisse auf Niveau A2 (Ausnahmen für A1 in begründeten Fällen möglich) \n• Körperlich und psychisch gesund \n• Vorliegen einer Kostengutsprache für die gesamte Ausbildungsdauer",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "CHF 5550.- pro Monat",
+   "zeiten": "EBA-Ausbildung: 2 Jahre",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Workcenter",
+     "address": "Zwicky-Platz 8, 8304, Wallisellen"
+    },
+    {
+     "name": "Workcenter Integrationsangebot",
+     "email": "workcenter@aoz.ch",
+     "phone": "+41 44 415 62 00"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-begleitete-ausbildungen-restaurant-und-kueche-riedbach",
+   "src": "AOZ",
+   "title": "Begleitete Ausbildungen Restaurant und Küche Riedbach",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/begleitete-ausbildungen-restaurant-und-kueche-riedbach",
+   "lead": "Jugendliche und junge Erwachsene mit schulischen Lücken und/oder (psycho-)sozialen Herausforderungen werden gezielt unterstützt, damit sie eine Lehre erfolgreich abschliessen können.",
+   "zg": "Junge Menschen, unabhängig vom Aufenthaltsstatus, die nach Ende der obligatorischen Schulzeit noch keine Lehrstelle gefunden oder eine Ausbildung abgebrochen haben, z.B. aus folgenden Gründen:\n• Grosser Unterstützungsbedarf beim Bewältigen des Schulstoffs der Berufsfachschule, insbesondere in Deutsch \n• Keine oder wenig Erfahrung mit dem Schweizer Berufsbildungssystem und (Arbeits-)Alltag \n• Schwierigkeiten im Lernverhalten wie Konzentrationsschwierigkeiten, Lernblockaden, ungenügende methodische Kompetenzen, langsames Lerntempo \n• Persönliches Verhalten, das den Lern- und Arbeitserfolg behindert\nIn einem Vorstellungsgespräch und während einer Schnupperwoche klärt der Lehrbetrieb die vorhandenen Ressourcen ab und definiert die notwendigen Leistungen zum Bestehen der Lehre.",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "CHF 5550.–/Monat\nIm Preis inbegriffen sind:  \n• Lohnkosten der Lernenden (inkl. Sozialversicherungsleistungen und 13. Monatslohn)\n• Arbeitskleidung\n• Überbetriebliche Kurse\n• Schulmaterial\n• WIGL-Lizenzen zum Download elektronischer Unterrichtsmaterialien \nFolgende Kosten fallen zusätzlich an:  \n• Arbeitsschuhe\n• Laptop bei digitalisierter Ausbildung\n• Für Küchenangestellte resp. Köch*innen: Messerset für die Abschlussprüfung \nHinweis: Teilnehmende sind ab einer Aufenthaltsdauer von 5 Jahren in der Schweiz grundsätzlich stipendienberechtigt.",
+   "zeiten": "Montag bis Freitag · Je nach Einsatz 7–23 Uhr · 2 Jahre EBA Berufe \n3 Jahre EFZ Berufe",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Restaurant Riedbach",
+     "address": "Hagenholzstrasse 104, 8050, Zürich"
+    },
+    {
+     "name": "Restaurant Riedbach Integrationsangebot",
+     "email": "restaurant.riedbach@aoz.ch",
+     "phone": "+41 44 300 14 74"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-begleitete-vorlehre-detailhandelsfachfraumann-textil-oder-moebel",
+   "src": "AOZ",
+   "title": "Begleitete Vorlehre Detailhandelsfachfrau*mann Textil oder Möbel",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/begleitete-vorlehre-detailhandelsfachfraumann-textil-oder-moebel",
+   "lead": "Das Brockito bietet pro Jahr zwei Plätze für eine begleitete Vorlehre im Detailhandel – Textil oder Möbel – an. Diese Vorlehre bereitet Teilnehmende entweder auf die EBA-Lehre «Detailhandelsassistent*in» oder auf die EFZ-Lehre «Detailhandelsfachfrau*mann» vor.",
+   "zg": "Jugendliche und junge Erwachsene unabhängig vom Aufenthaltsstatus mit grossen schulischen Lücken, kaum vorhandenen Lernstrategien, und/oder (psycho-)sozialen Herausforderungen.",
+   "voraus": "",
+   "anmeldung": "Für Anmeldungen und weitere Auskünfte wenden Sie sich bitte an die Programmleitung Brockito, T +41 44 415 60 39.",
+   "orte": "",
+   "kosten": "CHF 3415.–/Monat \nDie Gesamtkosten setzen sich zusammen aus: \nProgrammkosten Brockito: CHF 2325.–/Monat (= akkreditiertes Angebot, entsprechend kann dieser Betrag durch die Integrationspauschale finanziert werden) \nBegleitpauschale inkl. Lohnkosten für Lernende: CHF 1090.–/Monat",
+   "zeiten": "Montag bis Freitag und Samstagseinsätze · 8–18 Uhr, eine Stunde Mittagspause · 1 Schuljahr (August–August); pro Schuljahr stehen zwei Plätze zur Verfügung",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Tramont",
+     "address": "Robert-Maillart-Strasse 12, 8050, Zürich"
+    },
+    {
+     "name": "Brockito Integrationsangebot",
+     "email": "arbeitsintegration.brockito@aoz.ch",
+     "phone": "+41 44 415 64 40"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-begleitete-vorlehre-fahrradmechanikerin",
+   "src": "AOZ",
+   "title": "Begleitete Vorlehre Fahrradmechaniker*in",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/begleitete-vorlehre-fahrradmechanikerin",
+   "lead": "Die Velowerkstatt Züri rollt bietet pro Jahr zwei Plätze für eine begleitete Vorlehre Fahrradmechaniker*in an. Diese Vorlehre bereitet Teilnehmende entweder auf die EBA-Lehre «Zweiradassistent*in» oder auf die EFZ-Lehre «Fahrradmechaniker*in» vor.",
+   "zg": "Jugendliche und junge Erwachsene unabhängig vom Aufenthaltsstatus mit grossen schulischen Lücken, kaum vorhandenen Lernstrategien, und/oder (psycho-)sozialen Herausforderungen.",
+   "voraus": "",
+   "anmeldung": "Für Anmeldungen und weitere Auskünfte wenden Sie sich bitte an die Programmleitung Züri rollt, T +41 44 415 67 67.",
+   "orte": "",
+   "kosten": "CHF 3415.–/Monat \nDie Gesamtkosten setzen sich zusammen aus: \nProgrammkosten Velowerkstatt Züri rollt: CHF 2325.–/Monat (= akkreditiertes Angebot, entsprechend kann dieser Betrag durch die Integrationspauschale finanziert werden) \nBegleitpauschale inkl. Lohnkosten für Lernende: CHF 1090.–/Monat",
+   "zeiten": "Montag bis Freitag · 8–12 und 13–17 · 1 Schuljahr (August–August); pro Schuljahr stehen zwei Plätze zur Verfügung",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Velowerkstatt Züri rollt",
+     "address": "Affolternstrasse 147, 8050, Zürich"
+    },
+    {
+     "name": "Züri rollt Integrationsangebot",
+     "email": "info.zuerirollt@aoz.ch",
+     "phone": "+41 44 415 67 67"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-berufsvorbereitungsjahr-bvj-trampolin-basic",
+   "src": "AOZ",
+   "title": "Berufsvorbereitungsjahr (BVJ) Trampolin Basic",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/berufsvorbereitungsjahr-bvj-trampolin-basic",
+   "lead": "Jugendliche und junge Erwachsene erhalten eine intensive schulische Förderung und eine individualisierte Berufsvorbereitung.",
+   "zg": "Geflüchtete und zugewanderte Personen mit abgeschlossenem Deutschniveau A2 und Potenzial für den Übertritt in die Regelstrukturen der Sekundarstufe II im Alter zwischen 16 und 25 Jahren. Das Angebot eignet sich auch für motivierte Personen bis 40 Jahre",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Personen mit dem Anmeldeformular für das Angebot an. Danach werden diese zum Einstufungstest eingeladen und es folgt die Klassenzuteilung.",
+   "orte": "",
+   "kosten": "CHF 3 575.– pro Monat\nDas Berufsvorbereitungsjahr (BVJ) ist stipendienberechtigt",
+   "zeiten": "Trampolin Basic ist ein Ganzjahres-Angebot und beinhaltet 44 Unterrichtswochen",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Jugendförderung",
+     "email": "jugendfoerderung@aoz.ch",
+     "phone": "+41 44 415 67 77"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-bewerbungsunterstuetzung-und-nachbegleitung",
+   "src": "AOZ",
+   "title": "Bewerbungsunterstützung und Nachbegleitung",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/bewerbungsunterstuetzung-und-nachbegleitung",
+   "lead": "Job-Coaches der AOZ Arbeitsvermittlung unterstützen Sozialhilfeklient*innen bei der (Lehr-)Stellensuche und der Arbeitsaufnahme.",
+   "zg": "Personen mit Arbeitsmarktpotenzial oder Personen mit Ausbildungspotenzial",
+   "voraus": "Personen mit Arbeitsmarktpotenzial \n• Alter: 18 bis 55 Jahre\n• Deutschkenntnisse: Mindestens A1\n• Arbeitsfähigkeit mind. 40 % (Kinderbetreuung ist gewährleistet)\n• Geregelte Wohnsituation\n• Mindestens 6 Monate Erfahrung in einem Einsatzprogramm, in einer Branchenqualifizierung oder im Arbeitsmarkt. Arbeitszeugnis und Referenzen sind vorhanden.\n• Motiviert, Arbeitsstellen mit Hilfstätigkeiten anzunehmen \nPersonen mit Ausbildungspotenzial \n• Alter: 18 bis 40 Jahre\n• Deutschkenntnisse: Mindestens B1\n• Arbeitsfähigkeit 100 % (Kinderbetreuung ist gewährleistet)\n• Geregelte Wohnsituation\n• Mindestens 6 Monate Erfahrung in einem Einsatzprogramm, in einer Branchenqualifizierung oder im Arbeitsmarkt. Arbeitszeugnis und Referenz sind vorhanden\n• Motiviert, berufsspezifische Anforderungen zu erlernen und eine Berufsausbildung anzutreten",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nDieses Angebot kann gebucht werden als:\n• Zusatzmodul zu den Integrationsangeboten\nGastronomie, Brockenhaus und Transporte, Velostation und -werkstatt, GEP berufliche Integration\n• Modul 3 des Arbeitsintegrationscoaching\nsowohl einzeln als auch in Kombination mit nicht akkreditierten Fördermassnahmen im Bereich Arbeitsintegration\n• Angebot für Sozialhilfeklient*innen ausserhalb der Integrationspauschale (Kostendach)",
+   "orte": "",
+   "kosten": "Bewerbungsunterstützung \nCHF 900.– pro Monat \nNachbegleitung \nCHF 640.– pro Monat",
+   "zeiten": "Die Dauer der Bewerbungsunterstützung beträgt maximal 12 Monate oder bis zum Stellenantritt. Ab Stellenantritt beginnt die Dauer der Nachbegleitung von maximal 3 Monaten. \nAssessment / Situationsanalyse \nZwei Gespräche während des 1. Monats. \nBewerbungsunterstützung und -coaching / Akquisition und Vermittlung \nAb dem 2. Monat bis zum Stellenantritt. \nNachbegleitung \nBis max. 3 Monate nach Stellenantritt (richtet sich nach den Bedürfnissen).",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Arbeitsvermittlung",
+     "email": "arbeitsvermittlung@aoz.ch",
+     "phone": "+41 44 415 66 20"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-detailhandel-und-transport-brockito",
+   "src": "AOZ",
+   "title": "Detailhandel und Transport Brockito",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/detailhandel-und-transport-brockito",
+   "lead": "Im Integrationsprogramm Brockito arbeiten die Teilnehmenden im Brockenhaus (Detailhandel und Handwerk) oder führen Räumungen und Lieferungen für Kund*innen aus.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen. \nDas Angebot ist auch für Personen mit psychischen Belastungen geeignet.  \nJe nach Einsatzbereich sind auch körperliche Einschränkungen möglich, dies wird im Einzelfall geprüft. \nVoraussetzungen für eine Teilnahme: \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1)\n• Bereitschaft und Motivation für Samstagseinsätze",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2325.–/Monat\nAngebotsbegleitender Deutschkurs: CHF 395.– /Monat\nBewerbungsunterstützung/-coaching: CHF 900.– /Monat \nNachbegleitung: CHF 640.–/Monat",
+   "zeiten": "Montag bis Samstag · Je nach Einsatz 7.45 – 18.30 Uhr · Der Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Tramont",
+     "address": "Robert-Maillart-Strasse 12, 8050, Zürich"
+    },
+    {
+     "name": "Brockito Integrationsangebot",
+     "email": "arbeitsintegration.brockito@aoz.ch",
+     "phone": "+41 44 415 64 40"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-017",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-deutsch-der-langstrasse",
+   "src": "AOZ",
+   "title": "Deutsch an der Langstrasse",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-der-langstrasse",
+   "lead": "Niederschwelliger Deutsch-Schnupperkurs und Deutschkursberatung für Personen aus der Stadt Zürich an der Langstrasse 200.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.",
+   "orte": "",
+   "kosten": "Der Kurs ist gratis.",
+   "zeiten": "Jeden Donnerstag von 17–18.30 Uhr.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "L200",
+     "address": "Langstrasse 200, 8005, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-im-letzipark",
+   "src": "AOZ",
+   "title": "Deutsch im Letzipark",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-im-letzipark",
+   "lead": "Niederschwelliger Deutsch-Schnupperkurs und Deutschkursberatung für Personen aus der Stadt Zürich im Einkaufszentrum Letzipark.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.",
+   "orte": "",
+   "kosten": "Der Kurs ist gratis.",
+   "zeiten": "Jeden Mittwoch von 9.30–11.30 Uhr.",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "Einkaufszentrum Letzipark",
+     "address": "Baslerstrasse 50, 8048, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-leimbach",
+   "src": "AOZ",
+   "title": "Deutsch in Leimbach",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-leimbach",
+   "lead": "Niederschwelliger Deutsch-Schnupperkurs und Deutschkursberatung für Personen aus der Stadt Zürich im GZ Leimbach.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.\nErster Kurstag: 18.8.2026",
+   "orte": "",
+   "kosten": "Der Kurs ist gratis.",
+   "zeiten": "Jeden Dienstag von 9.30–11.30 Uhr.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "GZ Leimbach (Bistro)",
+     "address": "Leimbachstrasse 200, 8041, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-oerlikon",
+   "src": "AOZ",
+   "title": "Deutsch in Oerlikon",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-oerlikon",
+   "lead": "Niederschwelliger Deutsch-Schnupperkurs, Deutschkurs- und E-Learning-Beratung für Personen aus der Stadt Zürich in der PBZ Oerlikon.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.",
+   "orte": "",
+   "kosten": "Der Kurs ist gratis.",
+   "zeiten": "Jeden Donnerstag von 9.30–11.30 Uhr.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "PBZ Oerlikon",
+     "address": "Hofwiesenstrasse 379, 8050, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-der-bibliothek",
+   "src": "AOZ",
+   "title": "Deutsch in der Bibliothek",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-der-bibliothek",
+   "lead": "Niederschwelliger Deutsch-Schnupperkurs und Deutschkursberatung für Personen aus der Stadt Zürich in der PBZ Oerlikon.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.",
+   "orte": "",
+   "kosten": "Der Kurs ist gratis.",
+   "zeiten": "Jeden Dienstag von 9.30–11.30 Uhr.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "PBZ Oerlikon",
+     "address": "Hofwiesenstrasse 379, 8050, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-lernen-mit-dem-handy-und-computer",
+   "src": "AOZ",
+   "title": "Deutsch lernen mit dem Handy und Computer",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-lernen-mit-dem-handy-und-computer",
+   "lead": "Anfänger*innen und Fortgeschrittene probieren mit Unterstützung einer Fachperson verschiedene Apps und Webseiten aus, mit denen Sie selbständig am Handy oder Computer Deutsch lernen können.",
+   "zg": "Das Angebot richtet sich an Erwachsene aus der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Der Einstieg ist jederzeit und ohne Anmeldung möglich.",
+   "orte": "",
+   "kosten": "Das Angebot ist gratis.",
+   "zeiten": "Jeden Donnerstag von 9.30–11.30 Uhr.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "PBZ Oerlikon",
+     "address": "Hofwiesenstrasse 379, 8050, Zürich"
+    },
+    {
+     "name": "Deutschkursberatung und Schnupperkurse",
+     "email": "deutschmobil@aoz.ch",
+     "phone": "+41 79 930 97 15"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-deutsch-lokal-a1-a2",
+   "src": "AOZ",
+   "title": "Deutsch lokal (A1–A2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-lokal-a1-a2",
+   "lead": "Die Kurse vermitteln praxisnahe Kompetenzen im Lesen, Schreiben, Hören und Sprechen sowie Einblicke in die Gemeinde. Der Unterricht findet zweimal pro Woche statt. In den Tageskursen wird eine Kinderbetreuung angeboten.",
+   "zg": "Fremdsprachige Erwachsene, die in der lateinischen Schrift alphabetisiert sind.",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "CHF 1010.– pro Modul inkl. Lehrmittel und Schulmaterial",
+   "zeiten": "Vormittag oder Abend\nDie genauen Tage und Zeiten sehen Sie in der Kursplanung in Ihrer Gemeinde. · Moduldauer: 12 Wochen\n4 Module pro Sprachniveau",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-02-004",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-deutsch-mit-ziel-arbeitsmarkt-festigungskurs-a1-a2",
+   "src": "AOZ",
+   "title": "Deutsch mit Ziel Arbeitsmarkt Festigungskurs (A1–A2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-mit-ziel-arbeitsmarkt-festigungskurs-a1-a2",
+   "lead": "Der Kurs festigt und vertieft die Sprachkenntnisse. Zusätzlich werden Lernstrategien, digitale Grundkenntnisse und Alltagskompetenzen gefördert. Während des Unterrichts wird eine Kinderbetreuung angeboten.",
+   "zg": "Fremdsprachige Erwachsene, die im Lernprozess stagnieren und ihre Sprachkenntnisse stärken möchten.",
+   "voraus": "",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular an. Danach wird sie/er zum Einstufungstest eingeladen und anschliessend wird ein passender Kurs empfohlen.",
+   "orte": "",
+   "kosten": "CHF 1495.– pro Modul inkl. Lehrmittel und Schulmaterial",
+   "zeiten": "Montag bis Freitag · 8.30–12 Uhr oder 13.30–17 Uhr · Moduldauer: 4 Wochen\n4 Module pro Sprachniveau",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-01-034",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-deutsch-mit-ziel-arbeitsmarkt-intensiv-a1-b2",
+   "src": "AOZ",
+   "title": "Deutsch mit Ziel Arbeitsmarkt intensiv (A1-B2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-mit-ziel-arbeitsmarkt-intensiv-a1-b2",
+   "lead": "Der Kurs vermittelt praxisnahe Deutschkenntnisse für Alltag und Beruf. Zusätzlich werden digitale Grundkenntnisse, Lernstrategien und Alltagskompetenzen vermittelt. Während des Unterrichts wird in Zürich eine Kinderbetreuung angeboten.",
+   "zg": "Fremdsprachige Erwachsene, die Potenzial für den Arbeitsmarkt aufweisen und in der lateinischen Schrift alphabetisiert sind.",
+   "voraus": "",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular an. Danach wird sie/er zum Einstufungstest eingeladen und anschliessend wird ein passender Kurs empfohlen.",
+   "orte": "",
+   "kosten": "CHF 2190.– pro Modul inkl. Lehrmittel und Schulmaterial",
+   "zeiten": "Montag bis Freitag · 8.30–12 Uhr oder 13.30–17 Uhr · Moduldauer: 8 Wochen\nJe nach Lerntempo 2–4 Module pro Sprachniveau",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Kurszentrum Tramont Halle",
+     "address": "Robert-Maillart-Strasse 14, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-01-021",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-deutsch-mit-ziel-arbeitsmarkt-semi-intensiv-a1-b2",
+   "src": "AOZ",
+   "title": "Deutsch mit Ziel Arbeitsmarkt semi-intensiv (A1–B2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutsch-mit-ziel-arbeitsmarkt-semi-intensiv-a1-b2",
+   "lead": "Der Kurs vermittelt praxisnahe Deutschkenntnisse für Alltag und Beruf. Zusätzlich werden digitale Grundkenntnisse, Lernstrategien und Alltagskompetenzen gefördert. Der Unterricht findet an drei Abenden pro Woche statt.",
+   "zg": "Fremdsprachige Erwachsene, die Potenzial für den Arbeitsmarkt aufweisen und in der lateinischen Schrift alphabetisiert sind.",
+   "voraus": "",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular an. Danach wird sie/er zum Einstufungstest eingeladen und anschliessend wird ein passender Kurs empfohlen.",
+   "orte": "",
+   "kosten": "CHF 2190.– pro Modul inkl. Lehrmittel und Schulmaterial",
+   "zeiten": "Montag, Dienstag, Donnerstag oder Dienstag, Mittwoch, Freitag · 17.15–19.45 Uhr · Moduldauer: 16 Wochen\n3 Module pro Sprachniveau",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "S-01-022",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-deutschpruefung-telc-a2-b2",
+   "src": "AOZ",
+   "title": "Deutschprüfung telc (A2–B2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/deutschpruefung-telc-a2-b2",
+   "lead": "Bei der AOZ können Sie telc Prüfungen auf den Niveaus GER A2, B1 und B2 ablegen. Die telc Sprachzertifikate sind europaweit gültig.",
+   "zg": "Personen, die eine anerkannte Sprachzertifizierung anstreben und sprachliche Voraussetzungen für die Prüfungsniveaus erfüllen.",
+   "voraus": "",
+   "anmeldung": "Schicken Sie das ausgefüllte Anmeldeformular mit Kopie eines Ausweises per Mail oder per Post.\nAOZ\nAdministration BIA\nEggbühlstrasse 15\n8050 Zürich\nadmin.bia@aoz.ch",
+   "orte": "",
+   "kosten": "Prüfung A2\nCHF 180.–\nPrüfung B1\nCHF 260.–\nPrüfung B2\nCHF 290.-",
+   "zeiten": "Jeweils samstags",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "Deutschprüfungen",
+     "email": "pruefungen@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-familiencoaching",
+   "src": "AOZ",
+   "title": "Familiencoaching",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/familiencoaching",
+   "lead": "Fachpersonen stärken Familien in ihren eigenen Ressourcen und Kompetenzen.\nUnser Angebot Familiencoaching bietet sozialpädagogische Familienbegleitung und sozialpädagogische Einzelbegleitung (Jugendcoaching) an. Diese ergänzende Hilfe zur Erziehung ist im kantonalen Kinder- und Jugendheimgesetz geregelt. \nIn fachlicher Hinsicht orientieren sich unsere Leistungen an der Kompetenzorientierten Familienarbeit KOFA. Sie erfolgen nach einem systemischen Ansatz, der möglichst lösungs- und ressourcenorientiert ist. Wir bedienen uns einer Vielzahl von verschiedenen Methoden und Instrumenten. \nUnser Angebot kann freiwillig in Anspruch genommen oder von Behörden (KESB, Gerichten) angeordnet werden. Wir stärken die Eigenverantwortung, leisten Hilfe zur Selbsthilfe und erweitern die Lösungs- und Handlungsmöglichkeiten aller Beteiligten. Dabei verfolgen wir mehrere Ziele:\n• die Förderung der individuellen Entwicklung von Kindern und Jugendlichen\n• die Befähigung der Erziehungsberechtigten zu einer gelingende Erziehung und Lebensgestaltung\n• die Förderung eines konstruktiven Umgangs mit Spannungen\n• die Vernetzung und Erschliessung von Ressourcen im direkt relevanten Umfeld",
+   "zg": "• Familien, Kinder und Jugendliche (unabhängig vom Aufenthaltsstatus) in belastenden und konflikthaften Lebenssituationen, bei denen vorgelagerte Unterstützungsangebote (z.B. ambulante Beratungen) nicht die erwünschte Wirkung gezeigt haben, um die Lebensbedingungen der Kinder und Jugendlichen so weit zu verbessern, dass Gefährdungen und/oder erhebliche Risikofaktoren und deren weiteren Entwicklung ausgeschlossen werden konnten.\n• Voraussetzung für eine sozialpädagogische Familienbegleitung (SPF) ist eine minimale Kooperationsbereitschaft seitens der Familie. Zudem legen wir Wert auf eine fachlich fundierte Auftragsklärung. Auftraggebende Stellen (etwa Kinder- und Jugendhilfezentren, Sozialzentren, Jugendanwaltschaften, Sozialdienste) werden von uns bei der Indikationsstellung telefonisch beraten.",
+   "voraus": "",
+   "anmeldung": "Gerne informieren wir Sie über unsere Dienstleistungen und Angebote und unterbreiten Ihnen einen auf Ihre Bedürfnisse zugeschnittenen Vorschlag. Für weitere Informationen kontaktieren Sie uns bitte.",
+   "orte": "",
+   "kosten": "Facharbeit mit Familien/Kindern/Jugendlichen gemäss Tarif KJV\nCHF 160.– pro Stunde\nFacharbeit mit Fachstellen/Fachpersonen gemäss Tarif KJV\nCHF 160.– pro Stunde\nVor- und Nachbereitung, Protokolle, Berichte\npauschal gemäss KJV\nWegpauschale\npauschal gemäss KJV\nTerminabsagen weniger als 24 Stunden vor der vereinbarten Zeit\npauschal gemäss KJV",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Familiencoaching",
+     "email": "familiencoaching@aoz.ch",
+     "phone": "+41 44 415 66 99"
+    },
+    {
+     "name": "Martin Rauh",
+     "email": "martin.rauh@aoz.ch",
+     "phone": "+41 44 415 66 70"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "familie",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-gep-berufliche-integration",
+   "src": "AOZ",
+   "title": "GEP Berufliche Integration",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/gep-berufliche-integration",
+   "lead": "Im Integrationsprogramm arbeiten die Teilnehmenden selbständig an einem von über 700 externen Einsatzplätzen, die auf ihre persönlichen Fähigkeiten und Ressourcen abgestimmt sind.\nDie Job-Coach*in Franziska Leuenberger erklärt, wie das Integrationsprogramm funktioniert und die Co-Leiterin Laura Hug spricht unter anderem über die Herausforderungen, welche ihnen in ihrer Arbeit begegnen.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig vom Aufenthaltsstatus; gehörlose Personen. \nVoraussetzungen für die Teilnahme: Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1). \nBasisstufe:\n• Pensum ab 40 %; Einsatzzeiten, Pensum sowie Einsatzort können mit Rücksicht auf Betreuungspflichten, gesundheitliche Einschränkungen sowie allfällige Deutsch-Intensiv- resp. Semiintensiv-Kurse organisiert werden. \nVertiefungsstufe:\n• Pensum ab 50 %; Gesundheitliche resp. Betreuungsthemen sind soweit geklärt, wie das für einen Stellen- oder Ausbildungsantritt im ersten Arbeitsmarkt erforderlich ist. Eine Kombination mit einem Semiintensiv-Deutschkurs ist möglich.",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialzentren der Stadt Zürich:\nAnmeldung via AREX\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: 890.–/Monat \nArbeitseinsatz inkl. Bewerbungscoaching: 1450.–/Monat > ab 1.1.2027: 1790.–/Monat\nNachbegleitung im Falle eines Stellenantritts: 640.–/Monat (Anmeldung nur via Job-Coach*in möglich, nicht mittels Anmeldeformular)",
+   "zeiten": "Montag bis Sonntag je nach Einsatzort · Je nach Einsatzort · Die Arbeitseinsätze dauern 6 Monate. Nach Bedarf ist eine Verlängerung auf 12 Monate möglich",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Tramont",
+     "address": "Robert-Maillart-Strasse 14, 8050, Zürich"
+    },
+    {
+     "name": "GEP Berufliche Integration",
+     "email": "gep.leitung@aoz.ch",
+     "phone": "+41 44 415 63 39"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-02-014",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-gastrokurs-mit-zertifikat-gastrozuerich",
+   "src": "AOZ",
+   "title": "Gastrokurs (mit Zertifikat GastroZürich)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/gastrokurs-mit-zertifikat-gastrozuerich",
+   "lead": "Der Gastrokurs ist eine Basisqualifizierung für Hilfskräfte in den Bereichen Küche und Buffet/Service.\nDie AOZ bietet den Gastrokurs in Zusammenarbeit mit dem kantonalen Gastgewerbeverband GastroZürich an.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen. \nVoraussetzungen für eine Teilnahme:\n• Interner Arbeitseinsatz in einem Gastronomiebetrieb der AOZ\n• Mindest-Deutschkenntnisse: A1\n• Ausgewiesene Arbeitserfahrung im 1. Arbeitsmarkt oder mindestens 3-monatiger Einsatz in einem Arbeitsintegrationsprogramm \n• Geregelte Kinderbetreuung\n• Bereitschaft für Wochenend- und Abendarbeit",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ:\nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Die Gesamtkosten setzen sich zusammen aus:\nKosten für den Branchenkurs: 3990.– \nKosten für den internen Arbeitseinsatz: 2325.–/Monat",
+   "zeiten": "Die Branchenkurse finden an einzelnen Tagen von Montag bis Samstag bei GastroZürich statt. · Der Branchenkurs bei GastroZürich umfasst 12 Kurstage. Diese verteilen sich über 3 Monate. Der Kurs wird drei Mal pro Jahr durchgeführt.  \nDer begleitende interne Arbeitseinsatz (praktische Ausbildung) wird während 6–12 Monaten geleistet.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "GastroZürich Bildungszentrum",
+     "address": "Blumenfeldstrasse 22, 8046, Zürich"
+    },
+    {
+     "name": "AOZ Standort Paprika",
+     "address": "Brahmsstrasse 22, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Standort Produktionsküche Tasteria",
+     "address": "Seestrasse 141, Belvoirpark, 8002, Zürich"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-03-006",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-handwerkstatt-tagesstruktur-und-stabilisierende-foerderung",
+   "src": "AOZ",
+   "title": "Handwerkstatt – Tagesstruktur und stabilisierende Förderung",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/handwerkstatt-tagesstruktur-und-stabilisierende-foerderung",
+   "lead": "Teilnehmende erhalten ressourcenorientierte Förderung sowie eine stabilisierende Tagesstruktur dank einer niederschwelligen Tätigkeit mit Papier und Textil.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig vom Aufenthaltsstatus; gehörlose Personen.\nDas Angebot eignet sich insbesondere für Menschen mit psychischen und/oder körperlichen Belastungen, die von einem individuell angepassten und stabilisierenden Arbeitssetting profitieren.\nVoraussetzungen für eine Teilnahme: \nInteresse und Freude an handwerklichen Tätigkeiten im Textil- und Papierbereich sowie Offenheit für das gemeinsame Lernen und Arbeiten in der Gruppe.",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2325.–/Monat\nAngebotsbegleitender Deutschkurs: CHF 395.–/Monat",
+   "zeiten": "Montag bis Freitag · 9–12 und 13–16 Uhr · Für eine optimale Förderung wird eine Mindest-Teilnahmedauer von 6 Monaten empfohlen.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Tramont",
+     "address": "Robert-Maillart-Strasse 14, 8050, Zürich"
+    },
+    {
+     "name": "Handwerkstatt Integrationsangebot",
+     "email": "handwerkstatt@aoz.ch",
+     "phone": "+41 44 415 64 22"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-info-line-fuer-gefluechtete",
+   "src": "AOZ",
+   "title": "Info-Line für Geflüchtete",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/info-line-fuer-gefluechtete",
+   "lead": "Möchten Sie Ihre Fragen in Ihrer Muttersprache stellen? Unsere Info-Lines haben Antworten für Sie in 13 verschiedenen Sprachen.\nHaben Sie Fragen zum Leben im Kanton Zürich? Beispielsweise zu den Themen Wohnen, Arbeiten, Deutsch lernen oder Schule und Freizeit? \nSie können uns per WhatsApp, SMS oder telefonisch kontaktieren. \nDie Beratenden sprechen verschiedene Sprachen. Sie beantworten Ihre Fragen. Wenn nötig, sagen sie Ihnen, welche Fachperson oder Beratungsstelle zuständig ist. Sie geben aber keine persönlichen Informationen zu speziellen Themen wie Gesundheit, Asylrecht oder Sozialhilfe.",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "Arabisch +41 79 343 34 74 · Dari/Farsi/Paschtu +41 79 941 69 39 · Französisch +41 79 832 86 52 · Deutsch, Kurmancî, Türkisch +41 79 943 18 73 · Englisch +41 79 227 36 95 · Sorani +41 79 947 32 52 · Tigrinya +41 79 792 50 51 · Ukrainisch/Russisch +41 79 942 62 59 (WhatsApp, SMS, Anruf)",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-infopoint-integration-stadt-zuerich",
+   "src": "AOZ",
+   "title": "InfoPoint Integration Stadt Zürich",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/infopoint-integration-stadt-zuerich",
+   "lead": "Kostenlose Kurzberatung ohne Termin für Migrant*innen in Zürich.\nDas Angebot ist für Migrant*innen, die Fragen zur Integration haben.\nWir geben zum Beispiel Informationen zu:\n• Deutschkursen\n• Arbeitssuche\n• Wohnungssuche\n• Rechtsberatung\n• Schule\n• Kinderbetreuung\n• Freizeitangeboten\nDer InfoPoint Integration in der Stadt Zürich wird im Auftrag der Fachstelle Diversität, Integration, Antirassismus (FS DIA) der Stadt Zürich durchgeführt.",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "Die Beratungsgespräche sind gratis.",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "GZ Hirzenbach",
+     "address": "Helen-Keller-Strasse 55, 8051, Zürich"
+    },
+    {
+     "name": "Tischlein Deck Dich Andreaskirche",
+     "address": "Brahmsstrasse 106, 8003, Zürich"
+    },
+    {
+     "name": "Tischlein Deck Dich Saatlen",
+     "address": "Kirchgemeindezentrum Saatlen, Saatlenstrasse 40, 8050, Zürich"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-kompetenzerfassung",
+   "src": "AOZ",
+   "title": "Kompetenzerfassung",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/kompetenzerfassung",
+   "lead": "Fachpersonen erheben das Arbeitsmarkt- und Ausbildungspotenzial von Klient*innen der Sozialhilfe. Die Kompetenzerfassung dient als Grundlage für die weitere Integrationsplanung.",
+   "zg": "Personen mit Arbeitsmarktpotenzial sowie Personen mit Ausbildungspotenzial",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.",
+   "orte": "",
+   "kosten": "CHF 1500.–",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "Kompetenzerfassung",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "A-01-005",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-kurzassessment-kostenlos",
+   "src": "AOZ",
+   "title": "Kurzassessment (kostenlos)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/kurzassessment-kostenlos",
+   "lead": "Im Auftrag fallführender Stellen bietet die AOZ kostenlose Kurzassessments mit Klient*innen an und liefert eine strukturierte Standortbestimmung mit klaren Empfehlungen für das weitere Vorgehen.",
+   "zg": "Flüchtlinge und vorläufig aufgenommene Personen mit ungeklärten Integrationsperspektiven",
+   "voraus": "",
+   "anmeldung": "Die Anmeldung erfolgt über die zuständige Sozialhilfestelle der Gemeinde. \nVerwenden Sie dafür das Anmeldeformular und senden Sie uns das (soweit wie möglich) ausgefüllte Formular «Ergebnisse der Potenzialabklärung».",
+   "orte": "",
+   "kosten": "Das Angebot ist kostenlos.",
+   "zeiten": "Kurzassessment \nNach Eingang der Anmeldung (inkl. Formular «Ergebnisse der Potenzialabklärung»), finden die Abklärung der AOZ sowie die schriftliche Rückmeldung an die fallführende Stelle in der Regel innerhalb von 2 Wochen statt.  \nDie Gespräche mit den zugewiesenen Klient*innen dauern rund 60 Minuten. \nHotline Kurzassessment\nEin Telefongespräch dauert rund 15 Minuten.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Hotline Kurzassessment",
+     "email": "assessment@aoz.ch",
+     "phone": " +41 44 415 61 61"
+    },
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Abklärung und Vermittlung",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-muttersprachliche-erstinformation",
+   "src": "AOZ",
+   "title": "Muttersprachliche Erstinformation",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/muttersprachliche-erstinformation",
+   "lead": "Kurse zum Leben im Kanton Zürich für Geflüchtete.\nDie Informationen helfen, sich im Alltag zurechtzufinden und unterstützen bei der Integration. In einer Gruppe erhalten Teilnehmende praktische Informationen und einen ersten Überblick zu wichtigen gesellschaftlichen Themen. \nDer Kurs beinhaltet Folgendes:\n• Ankommen in der neuen Gesellschaft\n• Zusammenleben und Wohnen\n• Sozialhilfe und Behördenkontakte\n• Gesundheit und Gesundheitssystem\n• Schule, Ausbildung und Arbeit",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "Die Kurse sind gratis. Wir bieten bei Bedarf eine kostenlose Kinderbetreuung an.",
+   "zeiten": "",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "Muttersprachliche Erstinformation",
+     "email": "swiss.info@aoz.ch",
+     "phone": "+41 44 415 62 97"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-pflegekurs-mit-srk-gleichwertigkeitszertifikat",
+   "src": "AOZ",
+   "title": "Pflegekurs (mit SRK Gleichwertigkeitszertifikat) ",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/pflegekurs-mit-srk-gleichwertigkeitszertifikat",
+   "lead": "Der Kurs verbindet theoretischen Unterricht mit praktischen Lerneinsätzen, vermittelt pflegefachliche und gesundheitliche Grundkompetenzen für den Einstieg ins Gesundheitswesen und bereitet auf das SRK-Gleichwertigkeitszertifikat vor.",
+   "zg": "Sozialhilfebeziehende, insbesondere vorläufig Aufgenommene und anerkannte Flüchtlinge, die einen Berufseinstieg im Pflegebereich anstreben.",
+   "voraus": "Empfohlene Voraussetzungen für die Kursteilnahme:\n• Ausreichende Sprachkenntnisse (mindestens Niveau B1, nachgewiesen durch ein anerkanntes Zertifikat oder den Einstufungstest bei der AOZ)\n• Hohe Motivation und Einsatzbereitschaft\n• Arbeitsmarkt- und Leistungsfähigkeit\n• Zeitliche Flexibilität\n• Gesicherte Kinderbetreuung: Montag–Sonntag inkl. Feiertage von 6–22.30 Uhr\n• Der Kurs richtet sich primär an institutionell finanzierte Teilnehmende und ist für Selbstzahler nicht geeignet.\nZulassungsvoraussetzungen – SRK:\nFür den erfolgreichen Erwerb des Zertifikats sind folgende Leistungen erforderlich:\n• Prüfungen: Alle Prüfungen innerhalb des Schulungstrimesters müssen bestanden werden. Die Gesamtnote muss mindestens 4.0 betragen.\n• Anwesenheit: Mindestens 80 % Teilnahme. Bei längerer Krankheit muss das Trimester wiederholt werden.\n• Praxis: Absolvierung eines praktischen Einsatzes von mindestens 6 Monaten im Rahmen des Lerneinsatzsemesters.",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular für das Angebot an. Die AOZ lädt die Personen zur Informationsveranstaltung mit Eignungsabklärung ein. Danach wird über die Kursaufnahme entschieden. Die Anmeldung gilt im Falle einer Aufnahme in den Kurs bereits als Kostengutsprache.",
+   "orte": "",
+   "kosten": "Schulungssemester inkl. aller Schulungsunterlagen\nCHF 17450.–\nLerneinsatzsemester\nCHF 7025.–",
+   "zeiten": "Montag bis Freitag · 9–12 Uhr und 13.30–16.30 Uhr · 44 Wochen (22 Wochen Schulungssemester und 22 Wochen Arbeitseinsatz)",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-03-008",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-praxisassessment",
+   "src": "AOZ",
+   "title": "Praxisassessment",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/praxisassessment",
+   "lead": "Während eines praktischen Einsatzes werden die Kompetenzen und Stärken hinsichtlich einer Integration in den ersten Arbeitsmarkt abgeklärt. Möglich in der Gastronomie, Brockenhaus oder Werkstätten.",
+   "zg": "Grundvoraussetzungen: Mindest-Deutschkenntnisse auf Niveau A1 \nBetriebsspezifische Voraussetzungen: \n• Produktionsküche Tasteria (Systemgastronomie): Mindestens 60%-Pensum, nur ganze Tage; für Teilnehmende ohne Gastronomieerfahrung \n• Restaurant Riedbach: Mindestens 80%-Pensum im Schichtbetrieb; für Teilnehmende mit und ohne Gastronomieerfahrung \n• Restaurant / Catering Paprika: Mindestens 50%-Pensum, je nach Zielsetzung auch stundenweise möglich; für Teilnehmende mit und ohne Gastronomieerfahrung \n• Detailhandel und Transport Brockito: Mindestens 50%-Pensum mit Samstagseinsätzen, halbtags oder ganze Tage; für Teilnehmende mit und ohne Erfahrung im Arbeitsbereich \n• Velowerkstatt Züri rollt: Mindestens 50%-Pensum, halbtags oder ganze Tage; für Teilnehmende mit handwerklichen / mechanischem Interesse / Vorwissen \n• Metallwerkstatt Workcenter: 50%-Pensum, halbtags oder ganze Tage; für Teilnehmende mit Interesse / Vorwissen in der Metallverarbeitung \nDie Praxisassessments eignen sich auch für gehörlose Personen.",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ:\nAnmeldung über Datendrehscheibe (DDS)\nFür weitere Informationen wenden Sie sich an die Leitung des jeweiligen Abklärungsbetriebs:\n• Paprika – Restaurant und Catering: T +41 44 415 60 61\n• Produktionsküche Tasteria: T +41 44 415 67 74\n• Restaurant Riedbach: T +41 44 300 14 74\n• Transport und Detailhandel Brockito: T +41 44 415 64 40\n• Züri rollt Velowerkstatt: T +41 44 415 67 67\n• Workcenter Metallwerkstatt: T +41 44 415 62 01",
+   "orte": "",
+   "kosten": "CHF 2590.– pro Praxisassessment",
+   "zeiten": "Je nach Programmeinsatz · Je nach Programmeinsatz · Ein Praxisassessment dauert bei einem 100 %-Pensum 3 Wochen. Bei tieferen Pensen verlängert sich der Einsatz entsprechend.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Paprika",
+     "address": "Brahmsstrasse 22, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Standort Produktionsküche Tasteria",
+     "address": "Seestrasse 141, Belvoirpark, 8002, Zürich"
+    },
+    {
+     "name": "AOZ Standort Restaurant Riedbach",
+     "address": "Hagenholzstrasse 104, 8050, Zürich"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "A-02-007",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-produktionskueche-tasteria-systemgastronomie",
+   "src": "AOZ",
+   "title": "Produktionsküche Tasteria (Systemgastronomie)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/produktionskueche-tasteria-systemgastronomie",
+   "lead": "Das Integrationsprogramm in der Produktionsküche Tasteria vermittelt den Teilnehmenden die Grundlagen der Systemgastronomie und bereitet sie gezielt auf eine Tätigkeit im ersten Arbeitsmarkt vor.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen. \nVoraussetzungen für eine Teilnahme: \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1) \n• Körperlich und psychisch gesund",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2325.– /Monat \nAngebotsbegleitender Deutschkurs: CHF 395.– /Monat \nBewerbungsunterstützung/-coaching: CHF 900.– /Monat \nNachbegleitung: CHF 640.– /Monat",
+   "zeiten": "Montag bis Sonntag · 7.30–12 und 13–17 Uhr · Ein Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Produktionsküche Tasteria",
+     "address": "Seestrasse 141, Belvoirpark, 8002, Zürich"
+    },
+    {
+     "name": "Produktionsküche Tasteria Integrationsangebot",
+     "email": "tasteria@aoz.ch",
+     "phone": "+41 44 415 64 35"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-021",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-pruefungstraining-telc-a2-b2",
+   "src": "AOZ",
+   "title": "Prüfungstraining telc (A2-B2)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/pruefungstraining-telc-a2-b2",
+   "lead": "Das Training bereitet gezielt auf telc-Prüfungen der Niveaus A2 bis B2 vor. An drei Samstagen vor der Prüfung werden Lesen, Schreiben, Hören und Sprechen trainiert, um Sicherheit für die Prüfung aufzubauen.",
+   "zg": "Personen, die sich auf die telc Prüfung vorbereiten möchten.",
+   "voraus": "",
+   "anmeldung": "Schicken Sie das ausgefüllte Anmeldeformular mit Kopie eines Ausweises per Mail oder per Post.\nAOZ\nAdministration BIA\nEggbühlstrasse 15\n8050 Zürich\nadmin.bia@aoz.ch",
+   "orte": "",
+   "kosten": "A2\nCHF 285.–\nB1\nCHF 285.–\nB2\nCHF 385.–",
+   "zeiten": "3 Samstage, 8.30 - 12 Uhr · 3 aufeinanderfolgende Samstage, 8.30 – 12 Uhr (4 Lektionen)",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "Deutschprüfungen",
+     "email": "pruefungen@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-psychotherapie-und-beratung-fuer-erwachsene",
+   "src": "AOZ",
+   "title": "Psychotherapie und Beratung für Erwachsene",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/psychotherapie-und-beratung-fuer-erwachsene",
+   "lead": "Das Angebot «Psychologische Beratung und Begleitung» richtet sich an Klient*innen der AOZ-Sozialberatung mit psychischen Belastungen oder Erkrankungen und Wohnsitz in der Stadt Zürich.\nDie therapeutischen Gespräche sollen die psychische Gesundheit der Geflüchteten verbessern und somit ihre soziale und berufliche Teilhabe in der Schweiz erleichtern. \nWir sind ausgebildete Psychotherapeut*innen bzw. Psychotherapeut*Innen in fortgeschrittener Weiterbildung mit Fokus auf kultursensible Therapie.",
+   "zg": "Das Angebot richtet sich an Klient*innen der AOZ-Sozialberatung mit Wohnsitz in der Stadt Zürich.",
+   "voraus": "",
+   "anmeldung": "Die Anmeldung erfolgt durch die fallführende Sozialarbeiter*in der AOZ-Sozialberatung. Die Kosten werden AOZ-intern finanziert bzw. verrechnet.",
+   "orte": "",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "gesundheit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-psychotherapie-und-beratung-fuer-minderjaehrige-und-junge-erwachsene",
+   "src": "AOZ",
+   "title": "Psychotherapie und Beratung für Minderjährige und junge Erwachsene",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/psychotherapie-und-beratung-fuer-minderjaehrige-und-junge-erwachsene",
+   "lead": "Das Angebot «Psychologische Unterstützung MNA und junge Erwachsene» richtet sich an unbegleitete Minderjährige und junge Erwachsene, die in Strukturen der AOZ in der Stadt oder im Kanton Zürich wohnen.\nDie jungen Klient*innen erhalten eine psychologische Beratung und Psychotherapie, die an ihre individuellen Bedürfnisse angepasst ist. Das Ziel ist, ihre psychische Gesundheit zu stabilisieren und zu verbessern. \nWir sind ausgebildete Psychotherapeut*innen bzw. Psychotherapeut*innen in Weiterbildung mit Fokus auf kultursensible Therapie.",
+   "zg": "Das Angebot steht ausschliesslich Klient*innen zur Verfügung, die\n• in kantonalen, von der AOZ geführten Wohngruppen für unbegleitete Minderjährige (MNA-Zentren) leben oder\n• als junge erwachsene Geflüchtete (18–25 Jahre) in der Stadt Zürich im Rahmen der Angebote der Betreuung und Begleitung Junge Erwachsene (BBJE) unterstützt werden.",
+   "voraus": "",
+   "anmeldung": "• Im MNA-Bereich erfolgt die Zuweisung durch die fallverantwortliche Bezugsperson  der jeweiligen Wohngruppe.\n• Im Bereich BBJE ist eine Anmeldung durch die fallführende Sozialberater*in oder die fallverantwortliche Bezugsperson möglich.\nDie Kosten werden intern finanziert bzw. verrechnet.",
+   "orte": "",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "gesundheit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-reinigungskurs-mit-wetrok-zertifikat",
+   "src": "AOZ",
+   "title": "Reinigungskurs (mit Wetrok-Zertifikat) ",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/reinigungskurs-mit-wetrok-zertifikat",
+   "lead": "Der Kurs verbindet theoretischen Unterricht mit praktischen Lerneinsätzen, vermittelt Fachkompetenzen in professioneller Reinigung, Hygiene und Arbeitssicherheit und bereitet auf den Einstieg in die Reinigungsbranche sowie auf das Wetrok-Zertifikat vor.",
+   "zg": "Sozialhilfebeziehende, insbesondere vorläufig Aufgenommene und anerkannte Flüchtlinge, die einen Einstieg in das Berufsfeld der Reinigung anstreben.",
+   "voraus": "Empfohlene Voraussetzungen für die Kursteilnahme:\n• Ausreichende Sprachkenntnisse (mindestens Niveau A2, nachgewiesen durch ein anerkanntes Zertifikat oder den Einstufungstest bei der AOZ)\n• Hohe Motivation\n• Arbeitsmarkt- und Leistungsfähigkeit\n• Gesicherte Kinderbetreuung: Montag bis Freitag inkl. Feiertage von 07–18 Uhr\n• Der Kurs richtet sich primär an institutionell finanzierte Teilnehmende und ist für Selbstzahler nicht geeignet. \nZulassungsvoraussetzungen – Wertrok\nFür den Erwerb des Zertifikats gelten folgende Anforderungen:\n• Anwesenheit: Mindestens 80 % Teilnahme am Unterricht. Bei längerer Krankheit muss das Semester wiederholt werden. \n• Prüfung: Erfolgreiches Bestehen der Abschlussprüfung.",
+   "anmeldung": "Die fallführende Stelle meldet ihr*e Klient*in via Anmeldeformular für das Angebot an. Die AOZ lädt die angemeldeten Personen zur Informationsveranstaltung mit Eignungsabklärung ein. Danach wird über die Kursaufnahme enschieden. Die Anmeldung gilt im Falle einer Aufnahme in den Kurs bereits als Kostengutsprache.",
+   "orte": "",
+   "kosten": "Schulungsquartal inkl. aller Schulungsunterlagen\nCHF 10450.–\nLerneinsatzsemester\nCHF 7025.–",
+   "zeiten": "Dienstag bis Freitag · 9–12 Uhr und 13.30–16.30 Uhr · 33 Wochen (11 Wochen Schulungsquartal und 22 Wochen Arbeitseinsatz)",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Bildung",
+     "email": "aoz-bildung@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "AI-03-009",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-ressourcenabklaerung",
+   "src": "AOZ",
+   "title": "Ressourcenabklärung",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/ressourcenabklaerung",
+   "lead": "Fachpersonen klären innerhalb von 4 Wochen die Leistungsfähigkeit, die Selbst- und Sozialkompetenzen sowie die Motivation im Hinblick auf eine berufliche Integration ab.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig vom Aufenthaltsstatus, bei denen \n• eine Integrationsempfehlung erst mithilfe einer Beobachtungsphase im Arbeitsalltag erstellt werden kann.\n• gesundheitliche Einschränkungen vermutet werden.\n• Hindernisse für einen (Wieder-) Einstieg in die Arbeitswelt eruiert werden müssen.\nVoraussetzungen für eine Teilnahme: \n• Mindest-Deutschkenntnisse auf Niveau A2",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.",
+   "orte": "",
+   "kosten": "CHF 3500.– Franken (4-wöchige Ressourcenabklärung unabhängig vom Pensum)",
+   "zeiten": "Montag bis Freitag · 8–12 und 13–16 Uhr · 4 Wochen",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Tramont",
+     "address": "Robert-Maillart-Strasse 14, 8050, Zürich"
+    },
+    {
+     "name": "Ressourcenabklärung",
+     "phone": "+41 44 415 64 20"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-restaurant-riedbach",
+   "src": "AOZ",
+   "title": "Restaurant Riedbach",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/restaurant-riedbach",
+   "lead": "Im Integrationsprogramm Restaurant Riedbach erwerben die Teilnehmenden grundlegende gastronomische Kompetenzen oder vertiefen bereits vorhandenes Wissen.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus.\nDas Angebot eignet sich auch für gehörlose Personen. \nDas Angebot ist auch für Personen mit psychischen Belastungen geeignet. \nVoraussetzungen für eine Teilnahme:  \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1) \n• Körperlich gesund",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2 325.– /Monat \nAngebotsbegleitender Deutschkurs: CHF 395.– /Monat \nBewerbungsunterstützung/-coaching: CHF 900.– /Monat \nNachbegleitung: CHF 640.– /Monat",
+   "zeiten": "Montag bis Freitag · Je nach Einsatz 7–23 Uhr · Ein Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Restaurant Riedbach",
+     "address": "Hagenholzstrasse 104, 8050, Zürich"
+    },
+    {
+     "name": "Restaurant Riedbach Integrationsangebot",
+     "email": "restaurant.riedbach@aoz.ch",
+     "phone": "+41 44 300 14 74"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-019",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-restaurant-und-catering-paprika",
+   "src": "AOZ",
+   "title": "Restaurant und Catering Paprika ",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/restaurant-und-catering-paprika",
+   "lead": "Das Integrationsprogramm im Restaurant und Catering Paprika richtet sich an Frauen und vermittelt ihnen die grundlegenden Kompetenzen der Gastronomie.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen. \nVoraussetzungen für eine Teilnahme:  \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1) \n• Psychisch gesund (für Personen mit leichten körperlichen Beschwerden, die nicht lange stehen können, besteht die Möglichkeit, gewisse Tätigkeiten im Sitzen zu verrichten) \nPaprika eignet sich als Einstiegsprogramm für Frauen, die noch nie in der Schweiz gearbeitet haben oder seit längerer Zeit nicht mehr im Arbeitsmarkt integriert sind. Es eignet sich auch für Frauen mit Betreuungspflichten.",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2 325.–/Monat \nAngebotsbegleitender Deutschkurs: CHF 395.– /Monat \nBewerbungsunterstützung/-coaching: CHF 900.– /Monat \nNachbegleitung: CHF 640.– /Monat",
+   "zeiten": "Montag bis Sonntag · Je nach Einsatz und Cateringaufträgen · Ein Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Paprika",
+     "address": "Brahmsstrasse 22, 8003, Zürich"
+    },
+    {
+     "name": "Paprika Integrationsangebot",
+     "email": "paprika@aoz.ch",
+     "phone": "+41 44 415 60 60"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-015",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-supported-education",
+   "src": "AOZ",
+   "title": "Supported Education",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/supported-education",
+   "lead": "Job-Coaches unterstützen Lernende beim Übertritt in die Berufsausbildung und begleiten sie bei Bedarf während der gesamten Ausbildungszeit bis zum erfolgreichen Abschluss im Arbeitsmarkt.",
+   "zg": "Personen mit bestehendem Ausbildungsvertrag (z.B. Lehrvertrag) sowie Unterstützungsbedarf für das erfolgreiche Bestehen der Berufsausbildung",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an. \nBei Neuanmeldung legen Sie der Anmeldung bitte folgende Dokumente bei:\n• Berichte aus schon besuchten Programmen\n• Kopie Lehrvertrag\n• Ggf. weitere relevante Dokumente",
+   "orte": "",
+   "kosten": "Supported Education \nCHF 800.– pro Monat \nLernbegleitung \nCHF 770.– pro Monat \nFür Personen mit Status N sowie Flüchtlinge mit Wohnort Stadt Zürich, welche aufgrund von Stipendien von der Sozialhilfe abgelöst sind, werden die Kosten von der Stadt Zürich getragen.",
+   "zeiten": "Startsemester \n6 Monate, einschliesslich bestandener Probezeit und Abschluss des ersten Semesters \nFolgesemester \njeweils 6 Monate, je nach Bedarf der Lernenden",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Standort Workcenter",
+     "address": "Zwicky-Platz 8, 8304, Wallisellen"
+    },
+    {
+     "name": "Arbeitsintegrationscoaching",
+     "email": "coaching@aoz.ch",
+     "phone": "+41 44 415 61 61"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "bildung",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-swiss-info-juniors-kurse",
+   "src": "AOZ",
+   "title": "Swiss Info (Juniors): Kurse",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/swiss-info-juniors-kurse",
+   "lead": "Geflüchtete erhalten praktische Alltags-Informationen in ihrer Muttersprache.\nDie in den Kursen vermittelten Informationen helfen, sich im Alltag zurechtzufinden und unterstützen bei der Orientierung und Teilhabe.\nDrei vertiefende Integrationskurse für erwachsene Geflüchtete:\n• Schule und Kinder (4 Kursmodule à je 2.5 Stunden)\n• Wohnen und arbeiten (4 Kursmodule à je 2.5 Stunden)\n• Orientierung in der Gesellschaft (4 Kursmodule à je 2.5 Stunden)\nKursmodule für junge Geflüchtete bis 25 Jahre:\n• Rechtsstaat und Gleichheit vor dem Gesetz (1 Kursmodul à 2.5 Stunden)\n• Zusammenleben im öffentlichen Raum (1 Kursmodul à 2.5 Stunden)\n• Beziehung, Liebe und Sexualität (1 Kursmodul à 2.5 Stunden)\n• Umgang mit Geld und Schuldenprävention (1 Kursmodul à 2.5 Stunden)",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "Die Kurse sind gratis. Wir bieten bei Bedarf eine kostenlose Kinderbetreuung an.",
+   "zeiten": "",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "Swiss Info",
+     "email": "swiss.info@aoz.ch",
+     "phone": "+41 44 415 62 97"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-swiss-info-beratungen",
+   "src": "AOZ",
+   "title": "Swiss Info: Beratungen",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/swiss-info-beratungen",
+   "lead": "Muttersprachliche Kurzberatung für das Leben in der Stadt Zürich für Geflüchtete.\nWir geben neu angekommenen Geflüchteten erste Informationen in ihrer Muttersprache über das Leben im Kanton Zürich und in der Schweiz. Diese Informationen helfen, sich im Alltag zurechtzufinden und unterstützen bei der Integration.\nUnsere AOZ-Berater*innen:\n• helfen, sich im neuen Wohnort zurechtzufinden\n• leiten bei Bedarf weiter an Beratungsstellen oder Fachpersonen",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "Das Angebot findet an verschiedenen Standorten der AOZ in der Stadt Zürich statt.",
+   "kosten": "Die Beratungen sind kostenlos.",
+   "zeiten": "Die Veranstaltungen finden regelmässig statt. Sie sind einfach zugänglich und ohne Terminreservation.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Swiss Info",
+     "email": "swiss.info@aoz.ch",
+     "phone": "+41 44 415 62 97"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-swiss-info-erstgespraeche",
+   "src": "AOZ",
+   "title": "Swiss Info: Erstgespräche",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/swiss-info-erstgespraeche",
+   "lead": "Muttersprachlichen Informationen zum Leben in der Schweiz in Individuellen Beratungen für Geflüchtete - nur nach Terminvereinbarung.\nSind Sie neu im Kanton Zürich und sprechen Sie eine Sprache, die nicht in den anderen Swiss Info Angeboten abgedeckt wird?\nSie bekommen in Ihrer Muttersprache erste Informationen über das Leben im Kanton Zürich und in der Schweiz. Wir geben praktische Basisinformationen und einen Überblick zu wichtigen Themen:\n• Ankommen\n• Wohnen\n• Zusammenleben\n• Sozialhilfe\n• Gesundheit\n• Schule\n• Ausbildung und Arbeit\nDiese Informationen helfen im Alltag und unterstützen bei der Integration.",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "Diese Beratungen werden an verschiedenen AOZ-Standorten in der Stadt Zürich oder an anderen geeigneten Standorten im Kanton Zürich angeboten.",
+   "kosten": "Die Beratungen sind kostenlos.",
+   "zeiten": "",
+   "childcare": [
+    "mit Kinderbetreuung"
+   ],
+   "contacts": [
+    {
+     "name": "Swiss Info",
+     "email": "swiss.info@aoz.ch",
+     "phone": "+41 44 415 62 97"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "info",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-tandemprogramm",
+   "src": "AOZ",
+   "title": "Tandemprogramm",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/tandemprogramm",
+   "lead": "Das AOZ-Tandemprogramm bringt Freiwillige und geflüchtete Personen für mindestens sechs Monate in regelmässigen Treffen zusammen. Gemeinsam üben sie Deutsch, spazieren durch Zürich oder besprechen Alltagsfragen – die Inhalte der Treffen gestalten sie zusammen.\n• Im Rahmen des AOZ-Tandemprogramms vermittelt der Fachbereich Freiwilligenarbeit Kontakte zwischen Geflüchteten und Freiwilligen.\n• Bei einem Tandem treffen sich Freiwillige und Geflüchtete 3–4 Mal im Monat während mindestens 6 Monaten.\n• Tag, Uhrzeit und Ort vereinbaren die Tandempartner*innen individuell\n• Tandems können aus zwei Einzelpersonen bestehen, aus einer Einzelperson und einer Familie oder aus zwei Familien.",
+   "zg": "Geflüchtete Menschen mit Wohnsitz in der Stadt Zürich.\nVoraussetzungen für eine Teilnahme:\n• Bereitschaft zu regelmässigen wöchentlichen Treffen über sechs Monate hinweg\n• Grundverständigung auf Deutsch möglich\n• Interesse an sozialem Austausch\n• Die Treffen müssen ohne Begleitung von Fachpersonen möglich sein (z. B. ohne psychologische Beratung, Dolmetscher*in o. Ä.)",
+   "voraus": "",
+   "anmeldung": "Für einen bestmöglichen Schutz der MNA während des Tandems ist eine enge Zusammenarbeit zwischen dem Fachbereich Freiwilligenarbeit und den involvierten Fallverantwortlichen unerlässlich. Aus diesem Grund können MNA nicht über den Anmelde-Desk angemeldet werden. Die Anmeldung erfolgt direkt über die zuständige Fallverantwortung.\nBitte wenden Sie sich für Informationen zur Anmeldung von MNA per Mail oder oder telefonisch an uns.",
+   "orte": "",
+   "kosten": "• Die Tandem-Vermittlung für Geflüchtete aus der Stadt Zürich ist kostenlos\n(das Angebot wird durch die Stadt und den Kanton Zürich finanziert).\n• Interessierte aus anderen Gemeinden des Kantons Zürich können sich an die Trägerschaften des kantonalen Tandemprogramms wenden.",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Fachbereich Freiwilligenarbeit",
+     "email": "freiwillige@aoz.ch",
+     "phone": "+41 44 415 67 35"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "kontakte",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-tueren-oeffnen",
+   "src": "AOZ",
+   "title": "Türen öffnen",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/tueren-oeffnen",
+   "lead": "Migrant*innen lernen mit der Unterstützung von Freiwilligen zu Hause Deutsch und üben Alltagsaktivitäten zur Förderung der sozialen Integration ein.\n• Die AOZ ist auf der Suche nach Freiwilligen, die bei Türen öffnen mitmachen möchten\n• Freiwillige unterrichten bei Migrant*innen zu Hause ein- oder zweimal in der Woche während zwei Stunden Deutsch und vermitteln Alltagsinformationen\n• Einsatzdauer: 6 Monate, ein Einstieg ist laufend möglich\n• Freiwillige erhalten eine Spesenentschädigung",
+   "zg": "Das Angebot richtet sich an Personen mit keinen oder geringen Deutschkenntnissen, die in der Stadt Zürich wohnen und für die eine Teilnahme an einem regulären Deutschkurs (zurzeit) nicht möglich ist.",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "Das Angebot ist gratis.",
+   "zeiten": "6 Monate",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Türen öffnen",
+     "email": "tuerenoeffnen@aoz.ch",
+     "phone": "+41 79 267 92 45"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "kontakte",
+   "access": "anmeldung"
+  },
+  {
+   "id": "aoz-veloplus-academy",
+   "src": "AOZ",
+   "title": "Veloplus-Academy",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/veloplus-academy",
+   "lead": "Programmteilnehmende der Velowerkstatt Züri rollt erwerben im Rahmen der Branchenqualifizierung «Assistenz Fahrradmechaniker*in» die wichtigsten Fachkenntnisse der Velomechanik.",
+   "zg": "Programmteilnehmende der Velowerkstatt Züri rollt, die \n• motiviert sind \n• Arbeitsmarktnähe mitbringen \n• bereits gute fachliche Fortschritte gemacht haben",
+   "voraus": "",
+   "anmeldung": "Voraussetzung ist eine Kostengutsprache für das Angebot Velowerkstatt Züri rollt.\nDie Teilnahme an der Veloplus-Academy ist nur in Absprache mit der Fachleitung möglich (abhängig von der Empfehlung im periodischen Standortbericht).",
+   "orte": "",
+   "kosten": "CHF 1000.– zuzüglich der Kosten für die Programmteilnahme in der Velowerkstatt Züri rollt.",
+   "zeiten": "Montag bis Freitag · Nach Vereinbarung · Mindestens 6 Monate Vorbereitungszeit (normale Programmteilnahme)  \nEtwa 4 Monate mit Prüfungsvorbereitung",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Velowerkstatt Züri rollt",
+     "address": "Affolternstrasse 147, 8050, Zürich"
+    },
+    {
+     "name": "Züri rollt Integrationsangebot",
+     "email": "info.zuerirollt@aoz.ch",
+     "phone": "+41 44 415 67 67"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-velostationen-zueri-rollt",
+   "src": "AOZ",
+   "title": "Velostationen Züri rollt",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/velostationen-zueri-rollt",
+   "lead": "Im Integrationsprogramm Velostationen stellen die Teilnehmenden den Betrieb der Veloparkplätze und Zusatzdienstleistungen am Hauptbahnhof sowie an den Bahnhöfen Stadelhofen und Oerlikon sicher.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen.  \nVoraussetzungen für eine Teilnahme:  \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1) \n• Körperlich und psychisch gesund",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 1'190.–/Monat \nAngebotsbegleitender Deutschkurs: CHF 395.–/Monat \nBewerbungsunterstützung/-coaching: CHF 900.–/Monat \nNachbegleitung: CHF 640.–/Monat",
+   "zeiten": "Montag bis Sonntag · Saisonabhängig 7–22 Uhr · Ein Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Velostation Europaplatz Züri rollt",
+     "address": "Kasernenstrasse 100, Untergeschoss, 8004, Zürich"
+    },
+    {
+     "name": "Züri rollt Integrationsangebot",
+     "email": "info.zuerirollt@aoz.ch",
+     "phone": "+41 44 415 67 67"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-014",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-velowerkstatt-zueri-rollt",
+   "src": "AOZ",
+   "title": "Velowerkstatt Züri rollt",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/velowerkstatt-zueri-rollt",
+   "lead": "Die Teilnehmenden erlernen im Arbeitsintegrationsprogramm Velowerkstatt die Grundlagen der Velomechanik durch anspruchsvolle Reparaturen und Kund*innenaufträge.",
+   "zg": "Sozialhilfebeziehende mit oder ohne Migrationshintergrund, unabhängig von ihrem Aufenthaltsstatus; gehörlose Personen.  \nVoraussetzungen für eine Teilnahme:  \n• Deutschkenntnisse auf mind. GER-Niveau A1 (gemeint sind Kenntnisse innerhalb des GER A1, nicht abgeschlossenes A1)\n• Körperlich und psychisch gesund\n• Technisches Geschick",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Teilnehmenden mit dem Anmeldeformular für das Programm an.\nSozialberatung AOZ Stadt Zürich und Gemeindemandate AOZ: \nAnmeldung über Datendrehscheibe (DDS)",
+   "orte": "",
+   "kosten": "Arbeitseinsatz: CHF 2325.–/Monat \nAngebotsbegleitender Deutschkurs: CHF 395.–/Monat \nBewerbungsunterstützung/-coaching: CHF 900.–/Monat \nNachbegleitung: CHF 640.–/Monat",
+   "zeiten": "Montag bis Freitag · 8–12 und 13–17 Uhr · Ein Arbeitseinsatz ist für mindestens 6 Monate konzipiert. Nach Bedarf ist eine Verlängerung möglich.",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Standort Velowerkstatt Züri rollt",
+     "address": "Affolternstrasse 147, 8050, Zürich"
+    },
+    {
+     "name": "Züri rollt Integrationsangebot",
+     "email": "info.zuerirollt@aoz.ch",
+     "phone": "+41 44 415 67 67"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "AI-01-016",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-vollschulisches-bildungsangebot-alpha-tast-integral",
+   "src": "AOZ",
+   "title": "Vollschulisches Bildungsangebot Alpha TAST-Integral",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/vollschulisches-bildungsangebot-alpha-tast-integral",
+   "lead": "TAST-Integral ist ein Ganztagesstrukturangebot für Jugendliche und junge Erwachsene mit Alphabetisierungsbedarf.",
+   "zg": "Schulungewohnte Geflüchtete mit Alphabetisierungs- oder Nachalphabetisierungsbedarf im Alter zwischen 16 und 20 Jahren. Für die Altersgruppe 20 bis 25 Jahre steht das Angebot offen, ist aber nicht akkreditiert.",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Personen mit dem Anmeldeformular für das Angebot an. Danach werden diese zum Einstufungstest eingeladen und es folgt die Klassenzuteilung.",
+   "orte": "",
+   "kosten": "CHF 3 570.– pro Monat",
+   "zeiten": "TAST-Integral ist ein Ganzjahres-Angebot und beinhaltet 44 Unterrichtswochen",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Gutstrasse",
+     "address": "Gutstrasse 8, 8055, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Jugendförderung",
+     "email": "jugendfoerderung@aoz.ch",
+     "phone": "+41 44 415 67 77"
+    }
+   ],
+   "status": [
+    "F",
+    "B"
+   ],
+   "iazh": "B-03-001",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-vollschulisches-bildungsangebot-berufsbildung-basics-intensiv",
+   "src": "AOZ",
+   "title": "Vollschulisches Bildungsangebot Berufsbildung Basics Intensiv",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/vollschulisches-bildungsangebot-berufsbildung-basics-intensiv",
+   "lead": "Im Basics Intensiv werden Jugendliche und junge Erwachsene in Kleinklassen (8-10 Personen) intensiv gefördert.",
+   "zg": "Geflüchtete und zugewanderte Personen, unabhängig vom Aufenthaltsstatus und Schulgewohnheit, in lateinischer Schrift alphabetisiert, mit Potenzial für den Übertritt in die Regelstrukturen der Sekundarstufe II im Alter zwischen 16 und 25 Jahren. Das Angebot eignet sich auch für motivierte Personen bis 40 Jahre",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Personen mit dem Anmeldeformular für das Angebot an. Danach werden diese zum Einstufungstest eingeladen und es folgt die Klassenzuteilung.",
+   "orte": "",
+   "kosten": "CHF 3 440.– pro Monat",
+   "zeiten": "Ein Modul von Basics Intensiv dauert 3 Monate und kann jeweils bis zu einem Jahr verlängert werden",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Jugendförderung",
+     "email": "jugendfoerderung@aoz.ch",
+     "phone": "+41 44 415 67 77"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "B-01-027",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-vollschulisches-bildungsangebot-berufsbildung-integration-intensiv",
+   "src": "AOZ",
+   "title": "Vollschulisches Bildungsangebot Berufsbildung Integration Intensiv",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/vollschulisches-bildungsangebot-berufsbildung-integration-intensiv",
+   "lead": "Im Integration Intensiv erlernen Jugendliche und junge Erwachsene während 1–2 Jahren die schulischen Grundlagen für eine berufliche Ausbildung.",
+   "zg": "Geflüchtete und zugewanderte Personen, vollständig in lateinischer Schrift alphabetisiert, unabhängig von Aufenthaltsstatus und Schulgewohnheit, mit Potenzial für den Übertritt in die Regelstrukturen der Sekundarstufe II im Alter zwischen 16 und 25 Jahren. Das Angebot eignet sich auch für motivierte Personen bis 40 Jahren",
+   "voraus": "",
+   "anmeldung": "Die zuweisenden Stellen melden die Personen mit dem Anmeldeformular für das Angebot an. Danach werden diese zum Einstufungstest eingeladen und es folgt die Klassenzuteilung.",
+   "orte": "",
+   "kosten": "CHF 3 175.– pro Monat",
+   "zeiten": "Integration Intensiv ist ein Ganzjahres-Angebot und beinhaltet 44 Unterrichtswochen",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Albisriederstrasse",
+     "address": "Albisriederstrasse 164, 8003, Zürich"
+    },
+    {
+     "name": "AOZ Fachbereich Jugendförderung",
+     "email": "jugendfoerderung@aoz.ch",
+     "phone": "+41 44 415 67 77"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "iazh": "B-01-001",
+   "access": "zuweisung"
+  },
+  {
+   "id": "aoz-walk-in",
+   "src": "AOZ",
+   "title": "Walk-In Arbeitsvermittlung",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/walk-in",
+   "lead": "Der Walk-In bietet Unterstützung bei allen Themen rund um die Stellensuche sowie bei allgemeinen administrativen Anliegen.\nDas Walk-In-Angebot richtet sich auch speziell an Personen, welche die formalen Voraussetzungen für die Aufnahme in ein Job-Coaching-Angebot der Sozialhilfe nicht erfüllen, jedoch eine Stelle suchen müssen/wollen und dabei auf Hilfe angewiesen sind.\nDer Walk-In bietet jedoch keine Unterstützung bei den Stellensuchbemühungen von Personen, die beim RAV angemeldet sind, da diese Zugang zu Angeboten der RAV's haben.",
+   "zg": "Personen mit Wohnsitz in der Stadt Zürich, welche primär von der Sozialhilfe leben. Zusätzlich sollen aber auch Personen mit Wohnsitz in der Stadt Zürich profitieren können, welche nicht von der Sozialhilfe, aber am Existenzminimum leben und keinen Zugang zu vergleichbaren Angeboten haben.",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Walk-In",
+     "email": "walk-in@aoz.ch",
+     "phone": "+41 44 415 66 20",
+     "address": "Albisriederstrasse 164, Büro 203 (2. Stock), 8003, Zürich"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "arbeit",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-zuercher-anlaufstelle-rassismus-zueras",
+   "src": "AOZ",
+   "title": "Zürcher Anlaufstelle Rassismus ZüRAS",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/zuercher-anlaufstelle-rassismus-zueras",
+   "lead": "ZüRAS unterstützt bei Rassismus im Alltag – mit vertraulicher Beratung und konkreten Hilfsangeboten.\nSie fühlen sich wegen Ihrer Herkunft, Hautfarbe oder Religion ungerecht behandelt, benachteiligt oder bedroht? Erleben Sie bei der Arbeit, in der Freizeit oder in der Nachbarschaft Rassismus und Diskriminierung? Wir unterstützen Sie. Wir beraten Sie, empfehlen weitere Schritte und suchen mit Ihnen Lösungen. Die Beratung ist vertraulich und unabhängig. Wenn Sie im Kanton Zürich wohnen, ist die Beratung kostenlos.",
+   "zg": "",
+   "voraus": "",
+   "anmeldung": "",
+   "orte": "",
+   "kosten": "",
+   "zeiten": "",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "Zürcher Anlaufstelle Rassimus ZüRAS",
+     "email": "info@zueras.ch",
+     "phone": "+41 44 415 62 26",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "recht",
+   "access": "direkt"
+  },
+  {
+   "id": "aoz-fide-test-a1-b1",
+   "src": "AOZ",
+   "title": "fide-Test (A1–B1)",
+   "inst": "Asyl-Organisation Zürich (AOZ)",
+   "url": "https://aoz.ch/de/kurse-und-angebote/fide-test-a1-b1",
+   "lead": "Bei der AOZ haben Sie die Möglichkeit, den fide-Test auf den GER-Niveaus A1–B1 zu absolvieren.",
+   "zg": "Personen, die eine anerkannte Sprachzertifizierung anstreben.",
+   "voraus": "",
+   "anmeldung": "Schicken Sie das ausgefüllte Anmeldeformular mit Kopie eines Ausweises per Mail oder per Post.\nAOZ\nAdministration BIA\nEggbühlstrasse 15\n8050 Zürich\nadmin.bia@aoz.ch\nAnmeldeschluss ist 3 Wochen vor der Prüfung. Die Anmeldungen werden in der Reihenfolge des Eingangs berücksichtigt.",
+   "orte": "",
+   "kosten": "Gesamter Test\nCHF 250.–\nMündlicher Test\nCHF 170.–\nSchriftlicher Test\nCHF 120.–",
+   "zeiten": "Jeweils samstags",
+   "childcare": [],
+   "contacts": [
+    {
+     "name": "AOZ Kurszentrum Eggbühlstrasse",
+     "address": "Eggbühlstrasse 15, 8050, Zürich"
+    },
+    {
+     "name": "Deutschprüfungen",
+     "email": "pruefungen@aoz.ch",
+     "phone": "+41 44 415 66 33"
+    }
+   ],
+   "status": [
+    "N",
+    "F",
+    "S",
+    "B"
+   ],
+   "need": "deutsch",
+   "access": "anmeldung"
+  }
+ ]
+}
