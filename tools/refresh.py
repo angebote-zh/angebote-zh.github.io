@@ -48,6 +48,8 @@ def slim(o):
         "topics": list(dict.fromkeys(items(o["course_topic"]) + items(o["industry"]) + items(o["course_content"]))),
         "intensity": clean(o["intensity_short"]), "childcare": items(o["child_care"]),
         "desc": clean(o["short_description"]),
+        "phone": (o.get("phone") or "").strip(), "email": (o.get("contact_email") or "").strip(),
+        "address": clean(o.get("place_detail")), "web": (o.get("external_offer_url") or o.get("external_url") or "").strip(),
     }
 
 
