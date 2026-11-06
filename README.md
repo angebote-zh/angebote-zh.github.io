@@ -1,9 +1,9 @@
-# Integrationsangebote Kanton Zürich
+# Integrationsangebote Stadt Zürich
 
-Suchhilfe für Kurse und Programme für Geflüchtete im Kanton Zürich.
+Suchhilfe für Kurse und Programme für Geflüchtete in der Stadt Zürich: https://angebote-zh.github.io
 
-- **Einfache Suche (15 Sprachen):** 7 Fragen (Ausweis, Alter, Deutsch, Ziel, Region, Kinderbetreuung, Frau), danach eine passende Liste zum Zeigen, Drucken oder Kopieren, mit der Nummer der AOZ Info-Line in der gewählten Sprache.
-- **Fachpersonen (Deutsch):** alle Angebote als Tabelle mit Filtern (Zielgruppe, Deutsch-Niveau, Ziel, Thema, Kinderbetreuung, Region, Ort), Kosten, Merkliste und CSV-Export.
+- **Einfache Suche (15 Sprachen):** 6 Fragen (Ausweis, Alter, Deutsch, Ziel, Kinderbetreuung, Frau), danach eine passende Liste zum Zeigen, Drucken oder Kopieren, mit der Nummer der AOZ Info-Line in der gewählten Sprache.
+- **Fachpersonen (Deutsch):** alle Angebote als Tabelle mit Filtern (Zielgruppe, Deutsch-Niveau, Ziel, Thema, Kinderbetreuung, Ort), Kosten, Merkliste und CSV-Export.
 
 ## Daten
 
@@ -12,7 +12,7 @@ Suchhilfe für Kurse und Programme für Geflüchtete im Kanton Zürich.
 | `data/iazh.json` | Angebotsdatenbank Integrationsagenda Kanton Zürich, [integrationsangebote.zh.ch](https://integrationsangebote.zh.ch/home) | siehe `fetched` |
 | `data/viventa.json` | [Fachschule Viventa, Stadt Zürich](https://www.stadt-zuerich.ch/de/bildung/ausbildung-weiterbildung/integrationsangebote.html), von Hand erfasst | siehe `fetched` |
 
-Die IAZH-Angebote sind für vorläufig Aufgenommene (F) und anerkannte Flüchtlinge (B); die Zuweisung läuft über die fallführende Stelle.
+Die Kantonsdatenbank enthält Angebote aus dem ganzen Kanton. Das Tool zeigt nur Angebote in der Stadt Zürich (Region «Zürich» = Bezirk Zürich = Stadt; ohne Regionsangabe zählt der Ort). Die IAZH-Angebote sind für vorläufig Aufgenommene (F) und anerkannte Flüchtlinge (B); die Zuweisung läuft über die fallführende Stelle.
 
 Daten aktualisieren:
 

@@ -11,10 +11,8 @@ const TG_DE = {
   women: "Frauen", qualified: "Hochqualifizierte", psych: "psychisch belastet", psychok: "auch psychisch belastet", deaf: "Gehörlose", nofocus: "kein Fokus",
 };
 const TG_SHOWN = ["young", "adult", "women", "alpha1620", "unschooled", "schooled", "qualified", "psych", "deaf"];
-const REGION_LABEL = {
-  "Zürich": "Zürich", "Andelfingen/Winterthur": "Winterthur / Andelfingen", "Hinwil/Meilen/Pfäffikon/Uster": "Uster / Hinwil / Meilen / Pfäffikon",
-  "Bülach/Dielsdorf": "Bülach / Dielsdorf", "Affoltern/Dietikon/Horgen": "Dietikon / Horgen / Affoltern",
-};
+// Stadt Zürich = Bezirk Zürich in der Kantonsdatenbank; ohne Regionsangabe zählt der Durchführungsort.
+const inCity = (o) => o.region.includes("Zürich") || (!o.region.length && /\bZürich\b/.test(o.ort));
 
 let lang = "de";
 let offers = [];
@@ -31,7 +29,6 @@ const QUESTIONS = [
   { k: "age", q: "qAge", opts: [["u16", "ageU16"], ["16", "age16"], ["26", "age26"]] },
   { k: "de", q: "qDe", opts: [["alpha", "deAlpha"], ["A1", "de0"], ["A1+", "deA1"], ["A2", "deA2"], ["B1", "deB1"], ["B2", "deB2"], ["x", "deX"]] },
   { k: "goal", q: "qGoal", opts: [["Sprache", "gLang"], ["Bildung", "gEdu"], ["Arbeitsintegration", "gWork"], ["Abklärung", "gCheck"]] },
-  { k: "region", q: "qRegion", opts: [...Object.entries(REGION_LABEL).map(([v, l]) => [v, null, l]), ["x", "rX"]] },
   { k: "kids", q: "qKids", opts: [["y", "yes"], ["n", "no"]] },
   { k: "woman", q: "qWoman", opts: [["y", "yes"], ["n", "no"], ["x", "skip"]] },
 ];
@@ -41,7 +38,7 @@ async function load() {
   const [iazh, viv] = await Promise.all([fetch("data/iazh.json").then((r) => r.json()), fetch("data/viventa.json").then((r) => r.json())]);
   meta = { iazh: iazh.fetched, viventa: viv.fetched };
   offers = [
-    ...iazh.offers.map((o) => ({ ...o, src: "IAZH", url: `https://integrationsangebote.zh.ch/detail/${o.id}` })),
+    ...iazh.offers.filter(inCity).map((o) => ({ ...o, src: "IAZH", url: `https://integrationsangebote.zh.ch/detail/${o.id}` })),
     ...viv.offers.map((o) => ({ ...o, src: "Viventa" })),
   ];
 }
@@ -53,7 +50,6 @@ function isAlphaOffer(o) {
 
 function matches(o, a) {
   if (o.dept !== a.goal) return false;
-  if (a.region !== "x" && o.region.length && !o.region.includes(a.region)) return false;
   if (a.kids === "y" && o.childcare.length && o.childcare.every((c) => /^ohne/i.test(c))) return false;
   if (a.woman === "n" && o.tg.includes("women")) return false;
   const ageTags = o.tg.filter((x) => ["adult", "young", "alpha1620"].includes(x));
@@ -91,7 +87,7 @@ function setLang(code) {
   $("langLabel").textContent = t("chooseLang");
   document.title = t("appTitle");
   $("mtNote").textContent = lang === "de" ? "" : t("mt");
-  $("dataNote").innerHTML = `Daten: <a href="https://integrationsangebote.zh.ch/home">integrationsangebote.zh.ch</a> (Stand ${esc(meta.iazh || "")}) · <a href="https://www.stadt-zuerich.ch/de/bildung/ausbildung-weiterbildung/integrationsangebote.html">Fachschule Viventa</a> (Stand ${esc(meta.viventa || "")}) · <a href="https://aoz.ch/de/kurse-und-angebote/info-line-fuer-gefluechtete">AOZ Info-Line</a>`;
+  $("dataNote").innerHTML = `Daten: <a href="https://integrationsangebote.zh.ch/home">integrationsangebote.zh.ch</a> (Stand ${esc(meta.iazh || "")}, nur Angebote in der Stadt Zürich) · <a href="https://www.stadt-zuerich.ch/de/bildung/ausbildung-weiterbildung/integrationsangebote.html">Fachschule Viventa</a> (Stand ${esc(meta.viventa || "")}) · <a href="https://aoz.ch/de/kurse-und-angebote/info-line-fuer-gefluechtete">AOZ Info-Line</a>`;
   route();
 }
 
@@ -191,7 +187,6 @@ function renderPro() {
     <select id="fGoal">${opts(["Arbeitsmarkt", "Ausbildung"], "Ziel: alle")}</select>
     <select id="fTop">${opts(uniq(offers.flatMap((o) => o.topics)), "Alle Themen/Branchen")}</select>
     <select id="fKids"><option value="">Kinderbetreuung: egal</option><option value="mit">mit Kinderbetreuung</option></select>
-    <select id="fReg"><option value="">Alle Regionen</option>${Object.entries(REGION_LABEL).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("")}</select>
     <select id="fOrt">${opts(uniq(offers.flatMap((o) => o.ort.split(",").map((s) => s.trim()).filter(Boolean))), "Alle Orte")}</select>
     <select id="fSrc">${opts(["IAZH", "Viventa"], "Alle Quellen")}</select>
     <label><input type="checkbox" id="fPicked"> nur Merkliste</label>
@@ -204,7 +199,7 @@ function renderPro() {
     <th>✓</th><th data-k="dept">Bereich</th><th data-k="type">Angebotsart</th><th data-k="inst">Institution</th><th data-k="title">Angebot</th>
     <th data-k="tg">Zielgruppe</th><th data-k="de">Voraussetzungen</th><th data-k="desc">Inhalt</th><th data-k="nr">Nr.</th><th data-k="ort">Ort</th><th data-k="price">Kosten</th><th data-k="src">Quelle</th>
   </tr></thead><tbody id="tb"></tbody></table></div>`;
-  const ids = ["q", "fDept", "fType", "fTg", "fDe", "fGoal", "fTop", "fKids", "fReg", "fOrt", "fSrc", "fPicked"];
+  const ids = ["q", "fDept", "fType", "fTg", "fDe", "fGoal", "fTop", "fKids", "fOrt", "fSrc", "fPicked"];
   ids.forEach((id) => $(id).addEventListener("input", drawPro));
   $("reset").onclick = () => { ids.forEach((id) => { if ($(id).type === "checkbox") $(id).checked = false; else $(id).value = ""; }); pro.sortK = "dept"; pro.dir = 1; drawPro(); };
   document.querySelectorAll("th[data-k]").forEach((th) => th.addEventListener("click", () => {
@@ -238,7 +233,7 @@ function drawPro() {
   const list = offers.filter((o) =>
     (!v("fDept") || o.dept === v("fDept")) && (!v("fType") || o.type === v("fType")) && (!v("fTg") || o.tg.includes(v("fTg"))) &&
     (!v("fDe") || o.de.includes(v("fDe"))) && (!v("fGoal") || o.goal.includes(v("fGoal"))) && (!v("fTop") || o.topics.includes(v("fTop"))) &&
-    (!v("fKids") || o.childcare.some((c) => /^mit/i.test(c))) && (!v("fReg") || o.region.includes(v("fReg"))) &&
+    (!v("fKids") || o.childcare.some((c) => /^mit/i.test(c))) &&
     (!v("fOrt") || o.ort.split(",").map((s) => s.trim()).includes(v("fOrt"))) && (!v("fSrc") || o.src === v("fSrc")) &&
     (!onlyPicked || pro.picked.has(String(o.id))) &&
     (!q || [o.inst, o.title, o.nr, o.ort, o.type, o.price, o.tg.map((x) => TG_DE[x]).join(" "), o.topics.join(" "), o.desc].join(" ").toLowerCase().includes(q)));
